@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @beeehappyandfree
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋
 
-<!---
-beeehappyandfree/beeehappyandfree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 📫 How to reach me
+- DEVPOST: https://devpost.com/beeehappyandfree
+- Twitter: https://twitter.com/beeehappyfree
+- Discord: beeehappyandfree
+
+#### 👀 I’m interested in AI, LLM Apps and software engineering
+
+#### 🌱 I’m currently learning AI, LLM Apps and in general software engineering
+
+#### 💞️ I’m looking to collaborate on AI, LLM, and hackathons
+
+#### 👷 Check out what I'm currently working on
+
+
+#### 🔭 Latest releases I've contributed to
+
+
+#### 🔨 My recent Pull Requests
+
+
+#### ⭐ Recent Stars
+
+
+#### 👯 Check out some of my recent followers
+
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
