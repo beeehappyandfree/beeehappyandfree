@@ -5,6 +5,12 @@
 - Twitter: https://twitter.com/beeehappyfree
 - Discord: beeehappyandfree
 
+#### 👀 I’m interested in AI, LLM Apps and software engineering
+
+#### 🌱 I’m currently learning AI, LLM Apps and in general software engineering
+
+#### 💞️ I’m looking to collaborate on AI, LLM, and hackathons
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
