@@ -1,36 +1,27 @@
+name: Update README
 
 on:
-  push:
-    branches: [ "main" ]
+  push: [main]
   schedule:
     - cron: "0 */1 * * *"
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Harden Runner
-        uses: step-security/harden-runner@ebacdc22ef6c2cfb85ee5ded8f2e640f4c776dd5 # v2.0.0
-        with:
-          egress-policy: audit # TODO: change to 'egress-policy: block' after couple of runs
+      - uses: actions/checkout@master
 
-      - uses: actions/checkout@master # master
-
-      - uses: muesli/readme-scribe@master # master
+      - uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - uses: actions/upload-artifact@3446296876d12d4e3a0f3145a3c87e67bf0a16b5 # v1.0.0
-        with:
-          name: README.md
-          path: README.md
-
-      - uses: stefanzweifel/git-auto-commit-action@0b007fbd1180b8e3a3668b21c6517392fe8f26eb # v4.15.4
+      - uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
           branch: main
