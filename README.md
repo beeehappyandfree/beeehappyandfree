@@ -6,8 +6,8 @@
 - Discord: beeehappyandfree
 
 #### ⭐️ Hackathons
-- (Filecoin Web Based)[https://devpost.com/software/youtube-dl-dweb]
-- (perspectlysis-ai)[https://perspectlysis-ai.vercel.app]
+- [Filecoin Web Based](https://devpost.com/software/youtube-dl-dweb)
+- [Perspectlysis-AI](https://perspectlysis-ai.vercel.app)
 
 #### 👀 I’m interested in AI, LLM Apps and software engineering
 
