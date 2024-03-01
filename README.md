@@ -11,11 +11,6 @@
 
 #### 💞️ I’m looking to collaborate on AI, LLM, and hackathons
 
-#### 🧰 My collaborators
-- [tankeanseng](https://github.com/tankeanseng)
-- [kai101](https://github.com/kai101)
-- [calsaviour](https://github.com/calsaviour)
-
 #### 👷 Check out what I'm currently working on
 
 
