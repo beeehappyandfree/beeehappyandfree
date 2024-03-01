@@ -5,10 +5,6 @@
 - Twitter: https://twitter.com/beeehappyfree
 - Discord: beeehappyandfree
 
-#### ⭐️ Hackathons 
-- (Filecoin Web Based YouTube Downloader)[https://devpost.com/software/youtube-dl-dweb]
-- (perspectlysis-ai)[https://perspectlysis-ai.vercel.app/]
-
 #### 👀 I’m interested in AI, LLM Apps and software engineering
 
 #### 🌱 I’m currently learning AI, LLM Apps and in general software engineering
