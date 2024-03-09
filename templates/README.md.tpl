@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,terraform,python,typescript,java" />
+  </a>
+</p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 #### 📫 How to reach me
 - DEVPOST: https://devpost.com/beeehappyandfree
 - Twitter: https://twitter.com/beeehappyfree
