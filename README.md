@@ -1,12 +1,16 @@
 ### Hi there 👋
 
+#### 💡 Enlightment
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+
+#### 📋 I speak the following languages
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,terraform,python,typescript,java" />
   </a>
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 #### 📫 How to reach me
 - DEVPOST: https://devpost.com/beeehappyandfree
@@ -25,12 +29,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.12.5](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.12.5), 2 weeks ago) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
+- [chore: fix typo](https://github.com/CloudSnorkel/cdk-github-runners/pull/542) on [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) (1 day ago)
 
 #### ⭐ Recent Stars
 
