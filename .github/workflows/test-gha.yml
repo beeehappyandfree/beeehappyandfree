@@ -9,19 +9,19 @@ on:
         required: true
 jobs:
   codebuild:
-    runs-on: [codebuild]
+    runs-on: [self-hosted]
     steps:
     # Uses checkout@v2 to checkout the current repo
     - uses: actions/checkout@v2
 
   lambda:
-    runs-on: [lambda]
+    runs-on: [self-hosted]
     steps:
     # Uses checkout@v2 to checkout the current repo
     - uses: actions/checkout@v2
 
   fargate:
-    runs-on: [fargate]
+    runs-on: [self-hosted]
     steps:
     # Uses checkout@v2 to checkout the current repo
     - uses: actions/checkout@v2
