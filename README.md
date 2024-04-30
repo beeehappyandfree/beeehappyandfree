@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (today)
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,7 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: fix typo](https://github.com/CloudSnorkel/cdk-github-runners/pull/542) on [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) (1 day ago)
+- [chore: fix typo](https://github.com/CloudSnorkel/cdk-github-runners/pull/542) on [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) (2 days ago)
 
 #### ⭐ Recent Stars
 
