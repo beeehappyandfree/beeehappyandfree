@@ -41,6 +41,9 @@
 
 #### ⭐ Recent Stars
 
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy &amp; security-focused software and services (today)
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (today)
+- [Sh4yy/personal-ai](https://github.com/Sh4yy/personal-ai) -  (today)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (1 day ago)
 - [eugene-khyst/letsencrypt-docker-compose](https://github.com/eugene-khyst/letsencrypt-docker-compose) - Set up Nginx and Let’s Encrypt in less than 3 minutes with a Docker Compose project that automatically obtains and renews free Let&#39;s Encrypt SSL/TLS certificates and sets up HTTPS in Nginx for multiple domain names. Configuration is done using a simple CLI tool. (1 day ago)
 - [kaytu-io/kaytu](https://github.com/kaytu-io/kaytu) - The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need. (1 day ago)
@@ -48,7 +51,6 @@
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool. (1 day ago)
 - [nkhine/Auto-GPT](https://github.com/nkhine/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 day ago)
 - [stackframe-projects/stack](https://github.com/stackframe-projects/stack) - Open-source user authentication &amp; management (1 day ago)
-- [danstepanov/create-expo-stack](https://github.com/danstepanov/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase. (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
