@@ -50,7 +50,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (5 days ago)
 - [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool. (5 days ago)
 - [nkhine/Auto-GPT](https://github.com/nkhine/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (5 days ago)
-- [stackframe-projects/stack](https://github.com/stackframe-projects/stack) - Open-source user authentication &amp; management (5 days ago)
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source user authentication &amp; management (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
