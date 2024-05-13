@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [mehrabmp/cut-it](https://github.com/mehrabmp/cut-it) - Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso and styled with shadcn ui (today)
 - [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more! (today)
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform. (today)
 - [openkoda/openkoda](https://github.com/openkoda/openkoda) - Open source business application platform for fast development (today)
@@ -50,7 +51,6 @@
 - [Sh4yy/personal-ai](https://github.com/Sh4yy/personal-ai) -  (5 days ago)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (6 days ago)
 - [eugene-khyst/letsencrypt-docker-compose](https://github.com/eugene-khyst/letsencrypt-docker-compose) - Set up Nginx and Let’s Encrypt in less than 3 minutes with a Docker Compose project that automatically obtains and renews free Let&#39;s Encrypt SSL/TLS certificates and sets up HTTPS in Nginx for multiple domain names. Configuration is done using a simple CLI tool. (6 days ago)
-- [kaytu-io/kaytu](https://github.com/kaytu-io/kaytu) - The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
