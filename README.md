@@ -43,7 +43,7 @@
 
 - [mehrabmp/cut-it](https://github.com/mehrabmp/cut-it) - Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso and styled with shadcn ui (2 days ago)
 - [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more! (2 days ago)
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform. (2 days ago)
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing. (2 days ago)
 - [openkoda/openkoda](https://github.com/openkoda/openkoda) - Open source business application platform for fast development (2 days ago)
 - [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages. (2 days ago)
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy &amp; security-focused software and services (1 week ago)
