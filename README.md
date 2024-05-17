@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [aegir-assembly/omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application (today)
 - [mehrabmp/cut-it](https://github.com/mehrabmp/cut-it) - Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso and styled with shadcn ui (4 days ago)
 - [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more! (4 days ago)
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing. (4 days ago)
@@ -50,7 +51,6 @@
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (1 week ago)
 - [Sh4yy/personal-ai](https://github.com/Sh4yy/personal-ai) -  (1 week ago)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (1 week ago)
-- [eugene-khyst/letsencrypt-docker-compose](https://github.com/eugene-khyst/letsencrypt-docker-compose) - Set up Nginx and Let’s Encrypt in less than 3 minutes with a Docker Compose project that automatically obtains and renews free Let&#39;s Encrypt SSL/TLS certificates and sets up HTTPS in Nginx for multiple domain names. Configuration is done using a simple CLI tool. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
