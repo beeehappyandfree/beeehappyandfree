@@ -33,7 +33,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.13.3](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.13.3), 3 days ago) - CDK constructs for self-hosted GitHub Actions runners
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.13.3](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.13.3), 4 days ago) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
@@ -41,11 +41,11 @@
 
 #### ⭐ Recent Stars
 
-- [mehrabmp/cut-it](https://github.com/mehrabmp/cut-it) - Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso and styled with shadcn ui (3 days ago)
-- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more! (3 days ago)
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing. (3 days ago)
-- [openkoda/openkoda](https://github.com/openkoda/openkoda) - Open source business application platform for fast development (3 days ago)
-- [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages. (3 days ago)
+- [mehrabmp/cut-it](https://github.com/mehrabmp/cut-it) - Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso and styled with shadcn ui (4 days ago)
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more! (4 days ago)
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing. (4 days ago)
+- [openkoda/openkoda](https://github.com/openkoda/openkoda) - Open source business application platform for fast development (4 days ago)
+- [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages. (4 days ago)
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy &amp; security-focused software and services (1 week ago)
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (1 week ago)
 - [Sh4yy/personal-ai](https://github.com/Sh4yy/personal-ai) -  (1 week ago)
