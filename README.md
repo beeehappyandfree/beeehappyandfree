@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool. (today)
 - [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500&#43; Awesome List Updates, Track it - not just star it! (today)
 - [beeehappyandfree/replexica](https://github.com/beeehappyandfree/replexica) - AI-powered i18n toolkit for building multi-lingual apps, fast. (today)
 - [maxprilutskiy/awesome-side-project](https://github.com/maxprilutskiy/awesome-side-project) - 🔖 A collection of FREE tools to get your side project off the ground, and fast! (today)
@@ -50,7 +51,6 @@
 - [mehrabmp/cut-it](https://github.com/mehrabmp/cut-it) - Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso and styled with shadcn ui (6 days ago)
 - [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more! (6 days ago)
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing. (6 days ago)
-- [openkoda/openkoda](https://github.com/openkoda/openkoda) - Open source business application platform for fast development (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
