@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - Bisheng is an open LLM devops platform for next generation AI applications. (today)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool. (1 day ago)
 - [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500&#43; Awesome List Updates, Track it - not just star it! (1 day ago)
 - [beeehappyandfree/replexica](https://github.com/beeehappyandfree/replexica) - AI-powered i18n toolkit for building multi-lingual apps, fast. (1 day ago)
@@ -51,7 +52,6 @@
 - [aegir-assembly/omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application (3 days ago)
 - [mehrabmp/cut-it](https://github.com/mehrabmp/cut-it) - Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso and styled with shadcn ui (1 week ago)
 - [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more! (1 week ago)
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
