@@ -42,6 +42,9 @@
 
 #### ⭐ Recent Stars
 
+- [Tiledesk/tiledesk-dashboard](https://github.com/Tiledesk/tiledesk-dashboard) - Tiledesk is the full-stack Open Source Live Chat with built-in Chatbots, written in Node.js and Angular. This repository is dedicated to the WebApp dashboard to manage Tiledesk: open-source alternative to Voiceflow, enabling easy creation of advanced LLM chatbots with seamless human agent handover. (today)
+- [Kommunicate-io/Kommunicate-Web-SDK](https://github.com/Kommunicate-io/Kommunicate-Web-SDK) - Kommunicate Web Gen AI Chatbot and Live Chat Plugin (today)
+- [Tiledesk/tiledesk-server](https://github.com/Tiledesk/tiledesk-server) - Tiledesk Server is the main API component of the Tiledesk platform 🚀 Tiledesk is an open-source alternative to Voiceflow, allowing you to build advanced LLM chatbots with easy handover to human agents when necessary. (today)
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams (today)
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - Bisheng is an open LLM devops platform for next generation AI applications. (1 day ago)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool. (2 days ago)
@@ -49,9 +52,6 @@
 - [beeehappyandfree/replexica](https://github.com/beeehappyandfree/replexica) - AI-powered i18n toolkit for building multi-lingual apps, fast. (2 days ago)
 - [maxprilutskiy/awesome-side-project](https://github.com/maxprilutskiy/awesome-side-project) - 🔖 A collection of FREE tools to get your side project off the ground, and fast! (2 days ago)
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (4 days ago)
-- [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API (4 days ago)
-- [aegir-assembly/omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application (4 days ago)
-- [mehrabmp/cut-it](https://github.com/mehrabmp/cut-it) - Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso and styled with shadcn ui (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
