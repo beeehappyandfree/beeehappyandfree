@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams (today)
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - Bisheng is an open LLM devops platform for next generation AI applications. (1 day ago)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool. (2 days ago)
 - [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500&#43; Awesome List Updates, Track it - not just star it! (2 days ago)
@@ -51,7 +52,6 @@
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API (4 days ago)
 - [aegir-assembly/omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application (4 days ago)
 - [mehrabmp/cut-it](https://github.com/mehrabmp/cut-it) - Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso and styled with shadcn ui (1 week ago)
-- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more! (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
