@@ -42,6 +42,8 @@
 
 #### ⭐ Recent Stars
 
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻 (today)
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (today)
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend (today)
 - [rowyio/feedbackfin](https://github.com/rowyio/feedbackfin) - Open-source widget to collect feedback anywhere on your website. Lightweight and tiny. That’s it. (today)
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World&#39;s largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project (today)
@@ -50,8 +52,6 @@
 - [raqibnur/quick-waitlist](https://github.com/raqibnur/quick-waitlist) - Quick Waitlist is an open-source &#34;coming soon&#34; and waiting list page for SaaS platforms and websites.  (today)
 - [get-convex/llama-farm-chat](https://github.com/get-convex/llama-farm-chat) - Use locally-hosted LLMs to power your cloud-hosted webapp (today)
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail (today)
-- [rxseven/onigiri-webapp](https://github.com/rxseven/onigiri-webapp) - React &amp; Redux app for collecting and organizing surveys :rice_ball: (today)
-- [eugene-khyst/artistassistapp](https://github.com/eugene-khyst/artistassistapp) - ArtistAssistApp is the best free web app for artists to accurately mix any color from a photo, tonal value study, turn a photo into an outline, draw with the grid method, paint with a limited palette, simplify a photo, and more. (today)
 
 #### 👯 Check out some of my recent followers
 
