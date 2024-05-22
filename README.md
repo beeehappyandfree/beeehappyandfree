@@ -42,16 +42,16 @@
 
 #### ⭐ Recent Stars
 
+- [get-convex/llama-farm-chat](https://github.com/get-convex/llama-farm-chat) - Use locally-hosted LLMs to power your cloud-hosted webapp (today)
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail (today)
+- [rxseven/onigiri-webapp](https://github.com/rxseven/onigiri-webapp) - React &amp; Redux app for collecting and organizing surveys :rice_ball: (today)
+- [eugene-khyst/artistassistapp](https://github.com/eugene-khyst/artistassistapp) - ArtistAssistApp is the best free web app for artists to accurately mix any color from a photo, tonal value study, turn a photo into an outline, draw with the grid method, paint with a limited palette, simplify a photo, and more. (today)
+- [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking (today)
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (today)
 - [Tiledesk/tiledesk-dashboard](https://github.com/Tiledesk/tiledesk-dashboard) - Tiledesk is the full-stack Open Source Live Chat with built-in Chatbots, written in Node.js and Angular. This repository is dedicated to the WebApp dashboard to manage Tiledesk: open-source alternative to Voiceflow, enabling easy creation of advanced LLM chatbots with seamless human agent handover. (1 day ago)
 - [Kommunicate-io/Kommunicate-Web-SDK](https://github.com/Kommunicate-io/Kommunicate-Web-SDK) - Kommunicate Web Gen AI Chatbot and Live Chat Plugin (1 day ago)
 - [Tiledesk/tiledesk-server](https://github.com/Tiledesk/tiledesk-server) - Tiledesk Server is the main API component of the Tiledesk platform 🚀 Tiledesk is an open-source alternative to Voiceflow, allowing you to build advanced LLM chatbots with easy handover to human agents when necessary. (1 day ago)
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams (1 day ago)
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) - Bisheng is an open LLM devops platform for next generation AI applications. (2 days ago)
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool. (3 days ago)
-- [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500&#43; Awesome List Updates, Track it - not just star it! (3 days ago)
-- [beeehappyandfree/replexica](https://github.com/beeehappyandfree/replexica) - AI-powered i18n toolkit for building multi-lingual apps, fast. (3 days ago)
-- [maxprilutskiy/awesome-side-project](https://github.com/maxprilutskiy/awesome-side-project) - 🔖 A collection of FREE tools to get your side project off the ground, and fast! (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
