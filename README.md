@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (today)
 - [Tiledesk/tiledesk-dashboard](https://github.com/Tiledesk/tiledesk-dashboard) - Tiledesk is the full-stack Open Source Live Chat with built-in Chatbots, written in Node.js and Angular. This repository is dedicated to the WebApp dashboard to manage Tiledesk: open-source alternative to Voiceflow, enabling easy creation of advanced LLM chatbots with seamless human agent handover. (1 day ago)
 - [Kommunicate-io/Kommunicate-Web-SDK](https://github.com/Kommunicate-io/Kommunicate-Web-SDK) - Kommunicate Web Gen AI Chatbot and Live Chat Plugin (1 day ago)
 - [Tiledesk/tiledesk-server](https://github.com/Tiledesk/tiledesk-server) - Tiledesk Server is the main API component of the Tiledesk platform 🚀 Tiledesk is an open-source alternative to Voiceflow, allowing you to build advanced LLM chatbots with easy handover to human agents when necessary. (1 day ago)
@@ -51,7 +52,6 @@
 - [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500&#43; Awesome List Updates, Track it - not just star it! (3 days ago)
 - [beeehappyandfree/replexica](https://github.com/beeehappyandfree/replexica) - AI-powered i18n toolkit for building multi-lingual apps, fast. (3 days ago)
 - [maxprilutskiy/awesome-side-project](https://github.com/maxprilutskiy/awesome-side-project) - 🔖 A collection of FREE tools to get your side project off the ground, and fast! (3 days ago)
-- [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
