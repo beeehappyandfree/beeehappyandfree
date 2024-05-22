@@ -42,16 +42,16 @@
 
 #### ⭐ Recent Stars
 
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World&#39;s largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project (today)
+- [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (today)
+- [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊 (today)
+- [raqibnur/quick-waitlist](https://github.com/raqibnur/quick-waitlist) - Quick Waitlist is an open-source &#34;coming soon&#34; and waiting list page for SaaS platforms and websites.  (today)
 - [get-convex/llama-farm-chat](https://github.com/get-convex/llama-farm-chat) - Use locally-hosted LLMs to power your cloud-hosted webapp (today)
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail (today)
 - [rxseven/onigiri-webapp](https://github.com/rxseven/onigiri-webapp) - React &amp; Redux app for collecting and organizing surveys :rice_ball: (today)
 - [eugene-khyst/artistassistapp](https://github.com/eugene-khyst/artistassistapp) - ArtistAssistApp is the best free web app for artists to accurately mix any color from a photo, tonal value study, turn a photo into an outline, draw with the grid method, paint with a limited palette, simplify a photo, and more. (today)
 - [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking (today)
 - [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (today)
-- [Tiledesk/tiledesk-dashboard](https://github.com/Tiledesk/tiledesk-dashboard) - Tiledesk is the full-stack Open Source Live Chat with built-in Chatbots, written in Node.js and Angular. This repository is dedicated to the WebApp dashboard to manage Tiledesk: open-source alternative to Voiceflow, enabling easy creation of advanced LLM chatbots with seamless human agent handover. (1 day ago)
-- [Kommunicate-io/Kommunicate-Web-SDK](https://github.com/Kommunicate-io/Kommunicate-Web-SDK) - Kommunicate Web Gen AI Chatbot and Live Chat Plugin (1 day ago)
-- [Tiledesk/tiledesk-server](https://github.com/Tiledesk/tiledesk-server) - Tiledesk Server is the main API component of the Tiledesk platform 🚀 Tiledesk is an open-source alternative to Voiceflow, allowing you to build advanced LLM chatbots with easy handover to human agents when necessary. (1 day ago)
-- [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
