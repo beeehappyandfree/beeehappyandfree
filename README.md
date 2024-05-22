@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [rowyio/feedbackfin](https://github.com/rowyio/feedbackfin) - Open-source widget to collect feedback anywhere on your website. Lightweight and tiny. That’s it. (today)
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World&#39;s largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project (today)
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! (today)
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊 (today)
@@ -51,7 +52,6 @@
 - [rxseven/onigiri-webapp](https://github.com/rxseven/onigiri-webapp) - React &amp; Redux app for collecting and organizing surveys :rice_ball: (today)
 - [eugene-khyst/artistassistapp](https://github.com/eugene-khyst/artistassistapp) - ArtistAssistApp is the best free web app for artists to accurately mix any color from a photo, tonal value study, turn a photo into an outline, draw with the grid method, paint with a limited palette, simplify a photo, and more. (today)
 - [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking (today)
-- [jumppad-labs/jumppad](https://github.com/jumppad-labs/jumppad) - Modern cloud native development environments (today)
 
 #### 👯 Check out some of my recent followers
 
