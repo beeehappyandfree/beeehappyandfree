@@ -29,8 +29,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (today)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (today)
-- [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (1 day ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -43,6 +43,8 @@
 
 #### ⭐ Recent Stars
 
+- [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click. (today)
+- [jackbridger/streampot-ai-video-example](https://github.com/jackbridger/streampot-ai-video-example) - AI video clip finder using StreamPot &amp; AssemblyAI (today)
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (today)
 - [serverlessmaps/serverlessmaps](https://github.com/serverlessmaps/serverlessmaps) - Creating and hosting serverless maps (today)
 - [dbos-inc/dbos-account-management](https://github.com/dbos-inc/dbos-account-management) - DBOS app that manages DBOS cloud account subscription (1 day ago)
@@ -51,8 +53,6 @@
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications. (2 days ago)
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) -  CloudMapper helps you analyze your Amazon Web Services (AWS) environments. (2 days ago)
 - [duo-labs/cloudtracker](https://github.com/duo-labs/cloudtracker) - CloudTracker helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies. (2 days ago)
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻 (3 days ago)
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
