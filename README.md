@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (today)
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - Build your next SAAS product using this Nextjs Starter Kit. Batteries included. (1 day ago)
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click. (3 days ago)
 - [jackbridger/streampot-ai-video-example](https://github.com/jackbridger/streampot-ai-video-example) - AI video clip finder using StreamPot &amp; AssemblyAI (3 days ago)
@@ -52,7 +53,6 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product. (4 days ago)
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool. (4 days ago)
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications. (5 days ago)
-- [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) -  CloudMapper helps you analyze your Amazon Web Services (AWS) environments. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
