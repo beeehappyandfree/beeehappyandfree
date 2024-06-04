@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [StreamPot/streampot](https://github.com/StreamPot/streampot) - Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage. (today)
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters (today)
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time. (1 week ago)
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 week ago)
@@ -52,7 +53,6 @@
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (1 week ago)
 - [serverlessmaps/serverlessmaps](https://github.com/serverlessmaps/serverlessmaps) - Creating and hosting serverless maps (1 week ago)
 - [dbos-inc/dbos-account-management](https://github.com/dbos-inc/dbos-account-management) - DBOS app that manages DBOS cloud account subscription (1 week ago)
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
