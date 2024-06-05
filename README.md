@@ -43,8 +43,8 @@
 
 #### ⭐ Recent Stars
 
-- [StreamPot/streampot](https://github.com/StreamPot/streampot) - Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage. (today)
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters (today)
+- [StreamPot/streampot](https://github.com/StreamPot/streampot) - Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage. (1 day ago)
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters (1 day ago)
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time. (1 week ago)
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 week ago)
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - Build your next SAAS product using this Nextjs Starter Kit. Batteries included. (1 week ago)
