@@ -35,7 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.13.4](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.13.4), 1 week ago) - CDK constructs for self-hosted GitHub Actions runners
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.0](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.0), today) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
