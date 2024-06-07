@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (today)
 - [StreamPot/streampot](https://github.com/StreamPot/streampot) - Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage. (3 days ago)
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters (3 days ago)
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time. (1 week ago)
@@ -52,7 +53,6 @@
 - [jackbridger/streampot-ai-video-example](https://github.com/jackbridger/streampot-ai-video-example) - AI video clip finder using StreamPot &amp; AssemblyAI (1 week ago)
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (1 week ago)
 - [serverlessmaps/serverlessmaps](https://github.com/serverlessmaps/serverlessmaps) - Creating and hosting serverless maps (1 week ago)
-- [dbos-inc/dbos-account-management](https://github.com/dbos-inc/dbos-account-management) - DBOS app that manages DBOS cloud account subscription (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
