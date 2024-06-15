@@ -29,8 +29,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (2 weeks ago)
-- [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (2 weeks ago)
+- [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (3 weeks ago)
+- [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (3 weeks ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -49,10 +49,10 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time. (2 weeks ago)
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (2 weeks ago)
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - Build your next SAAS product using this Nextjs Starter Kit. Batteries included. (2 weeks ago)
-- [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click. (2 weeks ago)
-- [jackbridger/streampot-ai-video-example](https://github.com/jackbridger/streampot-ai-video-example) - AI video clip finder using StreamPot &amp; AssemblyAI (2 weeks ago)
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (2 weeks ago)
-- [serverlessmaps/serverlessmaps](https://github.com/serverlessmaps/serverlessmaps) - Creating and hosting serverless maps (2 weeks ago)
+- [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click. (3 weeks ago)
+- [jackbridger/streampot-ai-video-example](https://github.com/jackbridger/streampot-ai-video-example) - AI video clip finder using StreamPot &amp; AssemblyAI (3 weeks ago)
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (3 weeks ago)
+- [serverlessmaps/serverlessmaps](https://github.com/serverlessmaps/serverlessmaps) - Creating and hosting serverless maps (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
