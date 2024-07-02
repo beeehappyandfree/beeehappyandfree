@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (today)
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure (2 days ago)
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (2 days ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (3 weeks ago)
@@ -52,7 +53,6 @@
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 month ago)
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - Build your next SAAS product using this Nextjs Starter Kit. Batteries included. (1 month ago)
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click. (1 month ago)
-- [jackbridger/streampot-ai-video-example](https://github.com/jackbridger/streampot-ai-video-example) - AI video clip finder using StreamPot &amp; AssemblyAI (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
