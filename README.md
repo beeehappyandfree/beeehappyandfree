@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [gokulkrishh/subs.is](https://github.com/gokulkrishh/subs.is) - Track and organise all your subscriptions from one app, without any hassle. (today)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (1 day ago)
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure (3 days ago)
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (3 days ago)
@@ -52,7 +53,6 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time. (1 month ago)
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators (1 month ago)
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - Build your next SAAS product using this Nextjs Starter Kit. Batteries included. (1 month ago)
-- [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
