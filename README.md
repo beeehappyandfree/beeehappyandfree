@@ -43,8 +43,8 @@
 
 #### ⭐ Recent Stars
 
-- [code100x/algorithmic-arena](https://github.com/code100x/algorithmic-arena) -  (today)
-- [gokulkrishh/subs.is](https://github.com/gokulkrishh/subs.is) - Track and organise all your subscriptions from one app, without any hassle. (1 week ago)
+- [code100x/algorithmic-arena](https://github.com/code100x/algorithmic-arena) -  (1 day ago)
+- [gokulkrishh/subs.is](https://github.com/gokulkrishh/subs.is) - Track and organise all your subscriptions from one app, without any hassle. (2 weeks ago)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (2 weeks ago)
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure (2 weeks ago)
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (2 weeks ago)
