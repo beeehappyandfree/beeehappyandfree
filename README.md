@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (1 week ago)
+- [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (2 weeks ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (1 month ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (2 months ago)
 
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [code100x/algorithmic-arena](https://github.com/code100x/algorithmic-arena) -  (1 day ago)
+- [code100x/algorithmic-arena](https://github.com/code100x/algorithmic-arena) -  (2 days ago)
 - [gokulkrishh/subs.is](https://github.com/gokulkrishh/subs.is) - Track and organise all your subscriptions from one app, without any hassle. (2 weeks ago)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (2 weeks ago)
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure (2 weeks ago)
