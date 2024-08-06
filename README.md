@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [run-llama/llama-agents](https://github.com/run-llama/llama-agents) -  (today)
 - [judygab/nexx-saas](https://github.com/judygab/nexx-saas) -  (today)
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥 (1 day ago)
 - [code100x/algorithmic-arena](https://github.com/code100x/algorithmic-arena) -  (3 weeks ago)
@@ -52,7 +53,6 @@
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (1 month ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (2 months ago)
 - [StreamPot/StreamPot](https://github.com/StreamPot/StreamPot) - Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage. (2 months ago)
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
