@@ -43,16 +43,16 @@
 
 #### ⭐ Recent Stars
 
+- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support! (today)
+- [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (today)
+- [zoom/VideoSDK-Web-Telehealth](https://github.com/zoom/VideoSDK-Web-Telehealth) - This starter-kit uses the Zoom Video SDK to build a telehealth app on Web (today)
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python &amp; Django (today)
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (today)
+- [nfoert/cardie](https://github.com/nfoert/cardie) - An open source business card designer and sharing platform (today)
+- [merlinn-co/merlinn](https://github.com/merlinn-co/merlinn) - Open source AI on-call developer 🧙‍♂️ Get relevant context &amp; root cause analysis in seconds about production incidents and make on-call engineers 10x better 🏎️ (today)
 - [run-llama/llama-agents](https://github.com/run-llama/llama-agents) -  (1 day ago)
 - [judygab/nexx-saas](https://github.com/judygab/nexx-saas) -  (1 day ago)
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥 (2 days ago)
-- [code100x/algorithmic-arena](https://github.com/code100x/algorithmic-arena) -  (3 weeks ago)
-- [gokulkrishh/subs.is](https://github.com/gokulkrishh/subs.is) - Track and organise all your subscriptions from one app, without any hassle. (1 month ago)
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (1 month ago)
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity. (1 month ago)
-- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (1 month ago)
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (2 months ago)
-- [StreamPot/StreamPot](https://github.com/StreamPot/StreamPot) - Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
