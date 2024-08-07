@@ -43,9 +43,9 @@
 
 #### ⭐ Recent Stars
 
-- [run-llama/llama-agents](https://github.com/run-llama/llama-agents) -  (today)
-- [judygab/nexx-saas](https://github.com/judygab/nexx-saas) -  (today)
-- [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥 (1 day ago)
+- [run-llama/llama-agents](https://github.com/run-llama/llama-agents) -  (1 day ago)
+- [judygab/nexx-saas](https://github.com/judygab/nexx-saas) -  (1 day ago)
+- [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥 (2 days ago)
 - [code100x/algorithmic-arena](https://github.com/code100x/algorithmic-arena) -  (3 weeks ago)
 - [gokulkrishh/subs.is](https://github.com/gokulkrishh/subs.is) - Track and organise all your subscriptions from one app, without any hassle. (1 month ago)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (1 month ago)
