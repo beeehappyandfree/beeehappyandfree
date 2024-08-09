@@ -43,16 +43,16 @@
 
 #### ⭐ Recent Stars
 
-- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support! (1 day ago)
-- [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (1 day ago)
-- [zoom/VideoSDK-Web-Telehealth](https://github.com/zoom/VideoSDK-Web-Telehealth) - This starter-kit uses the Zoom Video SDK to build a telehealth app on Web (1 day ago)
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python &amp; Django (1 day ago)
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (1 day ago)
-- [nfoert/cardie](https://github.com/nfoert/cardie) - An open source business card designer and sharing platform (1 day ago)
-- [merlinn-co/merlinn](https://github.com/merlinn-co/merlinn) - Open source AI on-call developer 🧙‍♂️ Get relevant context &amp; root cause analysis in seconds about production incidents and make on-call engineers 10x better 🏎️ (1 day ago)
-- [run-llama/llama-agents](https://github.com/run-llama/llama-agents) -  (2 days ago)
-- [judygab/nexx-saas](https://github.com/judygab/nexx-saas) -  (2 days ago)
-- [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥 (3 days ago)
+- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support! (2 days ago)
+- [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (2 days ago)
+- [zoom/VideoSDK-Web-Telehealth](https://github.com/zoom/VideoSDK-Web-Telehealth) - This starter-kit uses the Zoom Video SDK to build a telehealth app on Web (2 days ago)
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python &amp; Django (2 days ago)
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (2 days ago)
+- [nfoert/cardie](https://github.com/nfoert/cardie) - An open source business card designer and sharing platform (2 days ago)
+- [merlinn-co/merlinn](https://github.com/merlinn-co/merlinn) - Open source AI on-call developer 🧙‍♂️ Get relevant context &amp; root cause analysis in seconds about production incidents and make on-call engineers 10x better 🏎️ (2 days ago)
+- [run-llama/llama-agents](https://github.com/run-llama/llama-agents) -  (3 days ago)
+- [judygab/nexx-saas](https://github.com/judygab/nexx-saas) -  (3 days ago)
+- [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥 (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
