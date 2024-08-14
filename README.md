@@ -43,15 +43,15 @@
 
 #### ⭐ Recent Stars
 
-- [bbertka/code-server-eks](https://github.com/bbertka/code-server-eks) - Walkthrough of deploying Code-server with Amazon EKS (today)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (today)
-- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support! (6 days ago)
-- [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (6 days ago)
-- [zoom/VideoSDK-Web-Telehealth](https://github.com/zoom/VideoSDK-Web-Telehealth) - This starter-kit uses the Zoom Video SDK to build a telehealth app on Web (6 days ago)
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python &amp; Django (6 days ago)
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (6 days ago)
-- [nfoert/cardie](https://github.com/nfoert/cardie) - An open source business card designer and sharing platform (6 days ago)
-- [merlinn-co/merlinn](https://github.com/merlinn-co/merlinn) - Open source AI on-call developer 🧙‍♂️ Get relevant context &amp; root cause analysis in seconds about production incidents and make on-call engineers 10x better 🏎️ (6 days ago)
+- [bbertka/code-server-eks](https://github.com/bbertka/code-server-eks) - Walkthrough of deploying Code-server with Amazon EKS (1 day ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 day ago)
+- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support! (1 week ago)
+- [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (1 week ago)
+- [zoom/VideoSDK-Web-Telehealth](https://github.com/zoom/VideoSDK-Web-Telehealth) - This starter-kit uses the Zoom Video SDK to build a telehealth app on Web (1 week ago)
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python &amp; Django (1 week ago)
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (1 week ago)
+- [nfoert/cardie](https://github.com/nfoert/cardie) - An open source business card designer and sharing platform (1 week ago)
+- [merlinn-co/merlinn](https://github.com/merlinn-co/merlinn) - Open source AI on-call developer 🧙‍♂️ Get relevant context &amp; root cause analysis in seconds about production incidents and make on-call engineers 10x better 🏎️ (1 week ago)
 - [run-llama/llama-agents](https://github.com/run-llama/llama-agents) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
