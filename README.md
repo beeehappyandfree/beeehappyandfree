@@ -43,9 +43,9 @@
 
 #### ⭐ Recent Stars
 
-- [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (2 days ago)
-- [bbertka/code-server-eks](https://github.com/bbertka/code-server-eks) - Walkthrough of deploying Code-server with Amazon EKS (3 days ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (3 days ago)
+- [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (3 days ago)
+- [bbertka/code-server-eks](https://github.com/bbertka/code-server-eks) - Walkthrough of deploying Code-server with Amazon EKS (4 days ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (4 days ago)
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support! (1 week ago)
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (1 week ago)
 - [zoom/VideoSDK-Web-Telehealth](https://github.com/zoom/VideoSDK-Web-Telehealth) - This starter-kit uses the Zoom Video SDK to build a telehealth app on Web (1 week ago)
