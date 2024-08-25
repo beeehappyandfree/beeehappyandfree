@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes. (today)
 - [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (1 week ago)
 - [bbertka/code-server-eks](https://github.com/bbertka/code-server-eks) - Walkthrough of deploying Code-server with Amazon EKS (1 week ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 week ago)
@@ -53,7 +54,6 @@
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python &amp; Django (2 weeks ago)
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (2 weeks ago)
 - [nfoert/cardie](https://github.com/nfoert/cardie) - An open source business card designer and sharing platform (2 weeks ago)
-- [merlinn-co/merlinn](https://github.com/merlinn-co/merlinn) - Open source AI on-call developer 🧙‍♂️ Get relevant context &amp; root cause analysis in seconds about production incidents and make on-call engineers 10x better 🏎️ (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
