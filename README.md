@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [Lua-Labs-LLC/examples](https://github.com/Lua-Labs-LLC/examples) -  Check out our open-source examples! They include cloud computing, Web3, AI, and front-end development. You&#39;ll find new Web3 apps, AI features, and strong cloud setups. Great for developers curious about new tech and hands-on projects. (today)
 - [elie222/learn-from-open-source](https://github.com/elie222/learn-from-open-source) - A list of open source projects to learn from (today)
 - [pontusab/learn-from-open-source](https://github.com/pontusab/learn-from-open-source) - A list of open source projects to learn from (today)
 - [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language (today)
@@ -53,7 +54,6 @@
 - [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (1 week ago)
 - [bbertka/code-server-eks](https://github.com/bbertka/code-server-eks) - Walkthrough of deploying Code-server with Amazon EKS (1 week ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 week ago)
-- [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support! (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
