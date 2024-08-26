@@ -40,11 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: fix typo](https://github.com/CloudSnorkel/cdk-github-runners/pull/542) on [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) (3 months ago)
+- [chore: fix typo](https://github.com/CloudSnorkel/cdk-github-runners/pull/542) on [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes. (today)
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (today)
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes. (1 day ago)
 - [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (1 week ago)
 - [bbertka/code-server-eks](https://github.com/bbertka/code-server-eks) - Walkthrough of deploying Code-server with Amazon EKS (1 week ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 week ago)
@@ -53,7 +54,6 @@
 - [zoom/VideoSDK-Web-Telehealth](https://github.com/zoom/VideoSDK-Web-Telehealth) - This starter-kit uses the Zoom Video SDK to build a telehealth app on Web (2 weeks ago)
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python &amp; Django (2 weeks ago)
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (2 weeks ago)
-- [nfoert/cardie](https://github.com/nfoert/cardie) - An open source business card designer and sharing platform (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
