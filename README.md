@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [beeehappyandfree/saas-feedback](https://github.com/beeehappyandfree/saas-feedback) -  (4 days ago)
+- [beeehappyandfree/saas-feedback](https://github.com/beeehappyandfree/saas-feedback) -  (5 days ago)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (1 month ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (3 months ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (4 months ago)
@@ -44,14 +44,14 @@
 
 #### ⭐ Recent Stars
 
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code. (today)
-- [Lua-Labs-LLC/examples](https://github.com/Lua-Labs-LLC/examples) -  Check out our open-source examples! They include cloud computing, Web3, AI, and front-end development. You&#39;ll find new Web3 apps, AI features, and strong cloud setups. Great for developers curious about new tech and hands-on projects. (4 days ago)
-- [elie222/learn-from-open-source](https://github.com/elie222/learn-from-open-source) - A list of open source projects to learn from (4 days ago)
-- [pontusab/learn-from-open-source](https://github.com/pontusab/learn-from-open-source) - A list of open source projects to learn from (4 days ago)
-- [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language (4 days ago)
-- [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄 (4 days ago)
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (4 days ago)
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes. (5 days ago)
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code. (1 day ago)
+- [Lua-Labs-LLC/examples](https://github.com/Lua-Labs-LLC/examples) -  Check out our open-source examples! They include cloud computing, Web3, AI, and front-end development. You&#39;ll find new Web3 apps, AI features, and strong cloud setups. Great for developers curious about new tech and hands-on projects. (5 days ago)
+- [elie222/learn-from-open-source](https://github.com/elie222/learn-from-open-source) - A list of open source projects to learn from (5 days ago)
+- [pontusab/learn-from-open-source](https://github.com/pontusab/learn-from-open-source) - A list of open source projects to learn from (5 days ago)
+- [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language (5 days ago)
+- [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄 (5 days ago)
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (5 days ago)
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes. (6 days ago)
 - [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (2 weeks ago)
 - [bbertka/code-server-eks](https://github.com/bbertka/code-server-eks) - Walkthrough of deploying Code-server with Amazon EKS (2 weeks ago)
 
