@@ -57,5 +57,6 @@
 
 #### 👯 Check out some of my recent followers
 
+- [osiristape](https://github.com/osiristape)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
