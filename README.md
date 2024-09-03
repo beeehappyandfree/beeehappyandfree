@@ -44,6 +44,8 @@
 
 #### ⭐ Recent Stars
 
+- [webdevcody/background-remover](https://github.com/webdevcody/background-remover) -  (today)
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (today)
 - [code100x/muzer](https://github.com/code100x/muzer) -  (1 day ago)
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (1 day ago)
 - [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers (1 day ago)
@@ -52,8 +54,6 @@
 - [elie222/learn-from-open-source](https://github.com/elie222/learn-from-open-source) - A list of open source projects to learn from (1 week ago)
 - [pontusab/learn-from-open-source](https://github.com/pontusab/learn-from-open-source) - A list of open source projects to learn from (1 week ago)
 - [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language (1 week ago)
-- [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄 (1 week ago)
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
