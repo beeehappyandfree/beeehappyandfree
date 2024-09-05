@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models (today)
 - [webdevcody/background-remover](https://github.com/webdevcody/background-remover) -  (2 days ago)
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (2 days ago)
 - [code100x/muzer](https://github.com/code100x/muzer) -  (3 days ago)
@@ -53,7 +54,6 @@
 - [Lua-Labs-LLC/examples](https://github.com/Lua-Labs-LLC/examples) -  Check out our open-source examples! They include cloud computing, Web3, AI, and front-end development. You&#39;ll find new Web3 apps, AI features, and strong cloud setups. Great for developers curious about new tech and hands-on projects. (1 week ago)
 - [elie222/learn-from-open-source](https://github.com/elie222/learn-from-open-source) - A list of open source projects to learn from (1 week ago)
 - [pontusab/learn-from-open-source](https://github.com/pontusab/learn-from-open-source) - A list of open source projects to learn from (1 week ago)
-- [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
