@@ -36,7 +36,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.2](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.2), 1 day ago) - CDK constructs for self-hosted GitHub Actions runners
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.2](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.2), 2 days ago) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [reclaim-the-stack/get-started](https://github.com/reclaim-the-stack/get-started) - Reclaim the Stack in 15 minutes using this get-started stack (today)
-- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models (4 days ago)
-- [webdevcody/background-remover](https://github.com/webdevcody/background-remover) -  (6 days ago)
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (6 days ago)
+- [reclaim-the-stack/get-started](https://github.com/reclaim-the-stack/get-started) - Reclaim the Stack in 15 minutes using this get-started stack (1 day ago)
+- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models (5 days ago)
+- [webdevcody/background-remover](https://github.com/webdevcody/background-remover) -  (1 week ago)
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (1 week ago)
 - [code100x/muzer](https://github.com/code100x/muzer) -  (1 week ago)
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (1 week ago)
 - [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers (1 week ago)
