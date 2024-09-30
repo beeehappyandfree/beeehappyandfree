@@ -29,34 +29,33 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [beeehappyandfree/saas-feedback](https://github.com/beeehappyandfree/saas-feedback) -  (2 weeks ago)
+- [beeehappyandfree/saas-feedback](https://github.com/beeehappyandfree/saas-feedback) -  (1 month ago)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (2 months ago)
-- [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (3 months ago)
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (4 months ago)
+- [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (4 months ago)
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.2](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.2), 2 days ago) - CDK constructs for self-hosted GitHub Actions runners
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.4](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.4), 1 day ago) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
-- [chore: fix typo](https://github.com/CloudSnorkel/cdk-github-runners/pull/542) on [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) (4 months ago)
+- [chore: fix typo](https://github.com/CloudSnorkel/cdk-github-runners/pull/542) on [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [reclaim-the-stack/get-started](https://github.com/reclaim-the-stack/get-started) - Reclaim the Stack in 15 minutes using this get-started stack (1 day ago)
-- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models (5 days ago)
-- [webdevcody/background-remover](https://github.com/webdevcody/background-remover) -  (1 week ago)
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (1 week ago)
-- [code100x/muzer](https://github.com/code100x/muzer) -  (1 week ago)
-- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (1 week ago)
-- [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers (1 week ago)
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code. (1 week ago)
-- [Lua-Labs-LLC/examples](https://github.com/Lua-Labs-LLC/examples) -  Check out our open-source examples! They include cloud computing, Web3, AI, and front-end development. You&#39;ll find new Web3 apps, AI features, and strong cloud setups. Great for developers curious about new tech and hands-on projects. (2 weeks ago)
-- [elie222/learn-from-open-source](https://github.com/elie222/learn-from-open-source) - A list of open source projects to learn from (2 weeks ago)
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. (5 days ago)
+- [beeehappyandfree/postiz-app](https://github.com/beeehappyandfree/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (6 days ago)
+- [jlengstorf/wdc-monsters](https://github.com/jlengstorf/wdc-monsters) - Built as part of Web Dev Challenge. (6 days ago)
+- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want. (6 days ago)
+- [anniebabannie/imonsterist](https://github.com/anniebabannie/imonsterist) -  (6 days ago)
+- [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs (6 days ago)
+- [TrafficGuard/sophia](https://github.com/TrafficGuard/sophia) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more (1 week ago)
+- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam&#39;s song recognition algorithm. (1 week ago)
+- [finic-ai/finic](https://github.com/finic-ai/finic) - Stealth browsers as a service. Connect your scraper or automation to a fleet of cloud-hosted browsers configured for reliability and stealth. (1 week ago)
+- [reclaim-the-stack/get-started](https://github.com/reclaim-the-stack/get-started) - Reclaim the Stack in 15 minutes using this get-started stack (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
-- [osiristape](https://github.com/osiristape)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
