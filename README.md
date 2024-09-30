@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore (today)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. (5 days ago)
 - [beeehappyandfree/postiz-app](https://github.com/beeehappyandfree/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (6 days ago)
 - [jlengstorf/wdc-monsters](https://github.com/jlengstorf/wdc-monsters) - Built as part of Web Dev Challenge. (6 days ago)
@@ -53,7 +54,6 @@
 - [TrafficGuard/sophia](https://github.com/TrafficGuard/sophia) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more (1 week ago)
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam&#39;s song recognition algorithm. (1 week ago)
 - [finic-ai/finic](https://github.com/finic-ai/finic) - Stealth browsers as a service. Connect your scraper or automation to a fleet of cloud-hosted browsers configured for reliability and stealth. (1 week ago)
-- [reclaim-the-stack/get-started](https://github.com/reclaim-the-stack/get-started) - Reclaim the Stack in 15 minutes using this get-started stack (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
