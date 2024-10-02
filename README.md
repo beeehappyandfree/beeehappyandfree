@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook for rapid prototyping (today)
 - [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore (2 days ago)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. (1 week ago)
 - [beeehappyandfree/postiz-app](https://github.com/beeehappyandfree/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (1 week ago)
@@ -53,7 +54,6 @@
 - [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs (1 week ago)
 - [TrafficGuard/sophia](https://github.com/TrafficGuard/sophia) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more (1 week ago)
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam&#39;s song recognition algorithm. (1 week ago)
-- [finic-ai/finic](https://github.com/finic-ai/finic) - Stealth browsers as a service. Connect your scraper or automation to a fleet of cloud-hosted browsers configured for reliability and stealth. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
