@@ -44,6 +44,8 @@
 
 #### ⭐ Recent Stars
 
+- [felipeall/resumeio-to-pdf](https://github.com/felipeall/resumeio-to-pdf) - Download your resume from resume.io as PDF (today)
+- [myzie/burrow](https://github.com/myzie/burrow) - Burrow is a globally distributed HTTP proxy via AWS Lambda (today)
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook for rapid prototyping (1 day ago)
 - [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore (3 days ago)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. (1 week ago)
@@ -52,8 +54,6 @@
 - [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want. (1 week ago)
 - [anniebabannie/imonsterist](https://github.com/anniebabannie/imonsterist) -  (1 week ago)
 - [panoratech/Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs (1 week ago)
-- [TrafficGuard/sophia](https://github.com/TrafficGuard/sophia) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more (1 week ago)
-- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam&#39;s song recognition algorithm. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
