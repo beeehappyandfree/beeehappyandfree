@@ -36,7 +36,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.4](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.4), 3 days ago) - CDK constructs for self-hosted GitHub Actions runners
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.4](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.4), 4 days ago) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook for rapid prototyping (today)
-- [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore (2 days ago)
+- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook for rapid prototyping (1 day ago)
+- [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore (3 days ago)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. (1 week ago)
 - [beeehappyandfree/postiz-app](https://github.com/beeehappyandfree/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (1 week ago)
 - [jlengstorf/wdc-monsters](https://github.com/jlengstorf/wdc-monsters) - Built as part of Web Dev Challenge. (1 week ago)
