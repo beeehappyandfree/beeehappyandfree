@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [yusukebe/hono-with-vercel-ai](https://github.com/yusukebe/hono-with-vercel-ai) - An example for using Vercel AI SDK with Hono (today)
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (today)
 - [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people! (1 day ago)
 - [karrioapi/karrio](https://github.com/karrioapi/karrio) - Programmable Shipping API (self-hosted) (2 days ago)
@@ -54,7 +55,6 @@
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook for rapid prototyping (1 week ago)
 - [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore (1 week ago)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. (2 weeks ago)
-- [beeehappyandfree/postiz-app](https://github.com/beeehappyandfree/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀 (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
