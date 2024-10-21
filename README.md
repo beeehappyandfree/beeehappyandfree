@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK. (today)
 - [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator. (5 days ago)
 - [yusukebe/hono-with-vercel-ai](https://github.com/yusukebe/hono-with-vercel-ai) - An example for using Vercel AI SDK with Hono (1 week ago)
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (1 week ago)
@@ -54,7 +55,6 @@
 - [felipeall/resumeio-to-pdf](https://github.com/felipeall/resumeio-to-pdf) - Download your resume from resume.io as PDF (2 weeks ago)
 - [myzie/burrow](https://github.com/myzie/burrow) - Burrow is a globally distributed HTTP proxy via AWS Lambda (2 weeks ago)
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook for rapid prototyping (2 weeks ago)
-- [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
