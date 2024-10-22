@@ -45,6 +45,8 @@
 
 #### ⭐ Recent Stars
 
+- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want. (today)
+- [walmsles/url-shortener](https://github.com/walmsles/url-shortener) -  (today)
 - [ethanniser/NextMaster](https://github.com/ethanniser/NextMaster) - A highly performant replica of McMaster-Carr using Next.js  (today)
 - [hasanharman/form-builder](https://github.com/hasanharman/form-builder) -  (today)
 - [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback &amp; communicating updates. (today)
@@ -53,8 +55,6 @@
 - [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator. (6 days ago)
 - [yusukebe/hono-with-vercel-ai](https://github.com/yusukebe/hono-with-vercel-ai) - An example for using Vercel AI SDK with Hono (1 week ago)
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (1 week ago)
-- [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people! (1 week ago)
-- [karrioapi/karrio](https://github.com/karrioapi/karrio) - Programmable Shipping API (self-hosted) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
