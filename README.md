@@ -29,15 +29,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [beeehappyandfree/saas-feedback-platform](https://github.com/beeehappyandfree/saas-feedback-platform) -  (5 days ago)
-- [beeehappyandfree/saas-feedback](https://github.com/beeehappyandfree/saas-feedback) -  (5 days ago)
+- [beeehappyandfree/saas-feedback-platform](https://github.com/beeehappyandfree/saas-feedback-platform) -  (6 days ago)
+- [beeehappyandfree/saas-feedback](https://github.com/beeehappyandfree/saas-feedback) -  (6 days ago)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (3 months ago)
-- [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (4 months ago)
+- [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (5 months ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.5](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.5), 5 days ago) - CDK constructs for self-hosted GitHub Actions runners
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.5](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.5), 6 days ago) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement (today)
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK. (today)
-- [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator. (5 days ago)
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement (1 day ago)
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK. (1 day ago)
+- [klimeryk/dealwithit](https://github.com/klimeryk/dealwithit) - Fully client-side Deal With It GIF emoji generator. (6 days ago)
 - [yusukebe/hono-with-vercel-ai](https://github.com/yusukebe/hono-with-vercel-ai) - An example for using Vercel AI SDK with Hono (1 week ago)
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js (1 week ago)
 - [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people! (1 week ago)
