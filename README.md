@@ -41,20 +41,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: fix typo](https://github.com/CloudSnorkel/cdk-github-runners/pull/542) on [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) (5 months ago)
+- [chore: fix typo](https://github.com/CloudSnorkel/cdk-github-runners/pull/542) on [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring (today)
-- [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - QR Code Scanner is the simplest, fastest and most user-friendly web application. (today)
-- [magentaqin/quiz-me](https://github.com/magentaqin/quiz-me) - Elevate your programming skills through quizzes, coding practices, and real-world projects. (today)
-- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want. (2 days ago)
-- [walmsles/url-shortener](https://github.com/walmsles/url-shortener) -  (2 days ago)
-- [ethanniser/NextMaster](https://github.com/ethanniser/NextMaster) - A highly performant e-commerce template using Next.js  (2 days ago)
-- [hasanharman/form-builder](https://github.com/hasanharman/form-builder) -  (2 days ago)
-- [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback &amp; communicating updates. (2 days ago)
-- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement (3 days ago)
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK. (3 days ago)
+- [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring (1 day ago)
+- [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - QR Code Scanner is the simplest, fastest and most user-friendly web application. (1 day ago)
+- [magentaqin/quiz-me](https://github.com/magentaqin/quiz-me) - Elevate your programming skills through quizzes, coding practices, and real-world projects. (1 day ago)
+- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want. (3 days ago)
+- [walmsles/url-shortener](https://github.com/walmsles/url-shortener) -  (3 days ago)
+- [ethanniser/NextMaster](https://github.com/ethanniser/NextMaster) - A highly performant e-commerce template using Next.js  (3 days ago)
+- [hasanharman/form-builder](https://github.com/hasanharman/form-builder) -  (3 days ago)
+- [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback &amp; communicating updates. (3 days ago)
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement (4 days ago)
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
