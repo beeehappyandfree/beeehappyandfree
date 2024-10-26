@@ -51,7 +51,7 @@
 - [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want. (4 days ago)
 - [walmsles/url-shortener](https://github.com/walmsles/url-shortener) -  (4 days ago)
 - [ethanniser/NextMaster](https://github.com/ethanniser/NextMaster) - A highly performant e-commerce template using Next.js  (4 days ago)
-- [hasanharman/form-builder](https://github.com/hasanharman/form-builder) -  (4 days ago)
+- [hasanharman/form-builder](https://github.com/hasanharman/form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications. (4 days ago)
 - [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback &amp; communicating updates. (4 days ago)
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement (5 days ago)
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK. (5 days ago)
