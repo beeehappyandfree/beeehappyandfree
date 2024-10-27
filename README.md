@@ -50,7 +50,7 @@
 - [magentaqin/quiz-me](https://github.com/magentaqin/quiz-me) - Elevate your programming skills through quizzes, coding practices, and real-world projects. (3 days ago)
 - [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want. (5 days ago)
 - [walmsles/url-shortener](https://github.com/walmsles/url-shortener) -  (5 days ago)
-- [ethanniser/NextMaster](https://github.com/ethanniser/NextMaster) - A highly performant e-commerce template using Next.js  (5 days ago)
+- [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js  (5 days ago)
 - [hasanharman/form-builder](https://github.com/hasanharman/form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications. (5 days ago)
 - [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback &amp; communicating updates. (5 days ago)
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement (6 days ago)
