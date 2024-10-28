@@ -30,7 +30,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [beeehappyandfree/saas-feedback-platform](https://github.com/beeehappyandfree/saas-feedback-platform) -  (1 week ago)
-- [beeehappyandfree/saas-feedback](https://github.com/beeehappyandfree/saas-feedback) -  (1 week ago)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (3 months ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (5 months ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (6 months ago)
