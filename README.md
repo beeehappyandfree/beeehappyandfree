@@ -44,6 +44,9 @@
 
 #### ⭐ Recent Stars
 
+- [timfraedrich/OutRun](https://github.com/timfraedrich/OutRun) - OutRun is an open-source, privacy oriented, outdoor fitness tracker. (today)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (today)
+- [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.  (today)
 - [pbogre/jetlog](https://github.com/pbogre/jetlog) - Personal flight tracker and viewer (today)
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (1 day ago)
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring (5 days ago)
@@ -51,9 +54,6 @@
 - [magentaqin/quiz-me](https://github.com/magentaqin/quiz-me) - Elevate your programming skills through quizzes, coding practices, and real-world projects. (5 days ago)
 - [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want. (1 week ago)
 - [walmsles/url-shortener](https://github.com/walmsles/url-shortener) -  (1 week ago)
-- [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js  (1 week ago)
-- [hasanharman/form-builder](https://github.com/hasanharman/form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications. (1 week ago)
-- [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback &amp; communicating updates. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
