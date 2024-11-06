@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [marcelkooi/awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software (today)
 - [timfraedrich/OutRun](https://github.com/timfraedrich/OutRun) - OutRun is an open-source, privacy oriented, outdoor fitness tracker. (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 week ago)
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.  (1 week ago)
@@ -53,7 +54,6 @@
 - [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - QR Code Scanner is the simplest, fastest and most user-friendly web application. (1 week ago)
 - [magentaqin/quiz-me](https://github.com/magentaqin/quiz-me) - Elevate your programming skills through quizzes, coding practices, and real-world projects. (1 week ago)
 - [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want. (2 weeks ago)
-- [walmsles/url-shortener](https://github.com/walmsles/url-shortener) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
