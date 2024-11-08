@@ -36,7 +36,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.6](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.6), 6 days ago) - CDK constructs for self-hosted GitHub Actions runners
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.6](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.6), 1 week ago) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [marcelkooi/awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software (1 day ago)
+- [marcelkooi/awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software (2 days ago)
 - [timfraedrich/OutRun](https://github.com/timfraedrich/OutRun) - OutRun is an open-source, privacy oriented, outdoor fitness tracker. (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 week ago)
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.  (1 week ago)
