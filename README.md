@@ -29,6 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (today)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (4 months ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (5 months ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (6 months ago)
