@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (today)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (today)
 - [joschan21/pingpanda](https://github.com/joschan21/pingpanda) - A Modern Fullstack Event Monitoring SaaS (1 day ago)
 - [marcelkooi/awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software (4 days ago)
@@ -53,7 +54,6 @@
 - [pbogre/jetlog](https://github.com/pbogre/jetlog) - Personal flight tracker and viewer (1 week ago)
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (1 week ago)
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring (2 weeks ago)
-- [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - QR Code Scanner is the simplest, fastest and most user-friendly web application. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
