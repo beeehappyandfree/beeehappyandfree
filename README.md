@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [Andreaswt/thumbnails](https://github.com/Andreaswt/thumbnails) -  (today)
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (1 day ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 day ago)
 - [joschan21/pingpanda](https://github.com/joschan21/pingpanda) - A Modern Fullstack Event Monitoring SaaS (2 days ago)
@@ -53,7 +54,6 @@
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.  (1 week ago)
 - [pbogre/jetlog](https://github.com/pbogre/jetlog) - Personal flight tracker and viewer (1 week ago)
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (2 weeks ago)
-- [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
