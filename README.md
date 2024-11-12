@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (today)
 - [Andreaswt/thumbnails](https://github.com/Andreaswt/thumbnails) -  (1 day ago)
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (2 days ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (2 days ago)
@@ -53,7 +54,6 @@
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 weeks ago)
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.  (2 weeks ago)
 - [pbogre/jetlog](https://github.com/pbogre/jetlog) - Personal flight tracker and viewer (2 weeks ago)
-- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
