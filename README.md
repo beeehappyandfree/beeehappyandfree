@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (today)
+- [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (1 day ago)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (4 months ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (5 months ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (6 months ago)
@@ -44,12 +44,12 @@
 
 #### ⭐ Recent Stars
 
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (today)
-- [Andreaswt/thumbnails](https://github.com/Andreaswt/thumbnails) -  (1 day ago)
-- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (2 days ago)
-- [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (2 days ago)
-- [joschan21/pingpanda](https://github.com/joschan21/pingpanda) - A Modern Fullstack Event Monitoring SaaS (3 days ago)
-- [marcelkooi/awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software (6 days ago)
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 day ago)
+- [Andreaswt/thumbnails](https://github.com/Andreaswt/thumbnails) -  (2 days ago)
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (3 days ago)
+- [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (3 days ago)
+- [joschan21/pingpanda](https://github.com/joschan21/pingpanda) - A Modern Fullstack Event Monitoring SaaS (4 days ago)
+- [marcelkooi/awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software (1 week ago)
 - [timfraedrich/OutRun](https://github.com/timfraedrich/OutRun) - OutRun is an open-source, privacy oriented, outdoor fitness tracker. (2 weeks ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 weeks ago)
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.  (2 weeks ago)
