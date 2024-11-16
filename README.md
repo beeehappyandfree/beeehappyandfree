@@ -44,12 +44,12 @@
 
 #### ⭐ Recent Stars
 
-- [AbeTavarez/AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) - 🚀 Build an AI-Powered Stock Market Chatbot App with Next.js 14 and OpenAI! 📈 (1 day ago)
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (3 days ago)
-- [Andreaswt/thumbnails](https://github.com/Andreaswt/thumbnails) -  (4 days ago)
-- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (5 days ago)
-- [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (5 days ago)
-- [joschan21/pingpanda](https://github.com/joschan21/pingpanda) - A Modern Fullstack Event Monitoring SaaS (6 days ago)
+- [AbeTavarez/AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) - 🚀 Build an AI-Powered Stock Market Chatbot App with Next.js 14 and OpenAI! 📈 (2 days ago)
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (4 days ago)
+- [Andreaswt/thumbnails](https://github.com/Andreaswt/thumbnails) -  (5 days ago)
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (6 days ago)
+- [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (6 days ago)
+- [joschan21/pingpanda](https://github.com/joschan21/pingpanda) - A Modern Fullstack Event Monitoring SaaS (1 week ago)
 - [marcelkooi/awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software (1 week ago)
 - [timfraedrich/OutRun](https://github.com/timfraedrich/OutRun) - OutRun is an open-source, privacy oriented, outdoor fitness tracker. (2 weeks ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (2 weeks ago)
