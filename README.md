@@ -44,6 +44,8 @@
 
 #### ⭐ Recent Stars
 
+- [kliton-yt/scrape-flow-assets](https://github.com/kliton-yt/scrape-flow-assets) -  (today)
+- [oliver-gomes/magic-social-ai](https://github.com/oliver-gomes/magic-social-ai) -  (today)
 - [AbeTavarez/AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) - 🚀 Build an AI-Powered Stock Market Chatbot App with Next.js 14 and OpenAI! 📈 (6 days ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 week ago)
 - [Andreaswt/thumbnails](https://github.com/Andreaswt/thumbnails) -  (1 week ago)
@@ -52,8 +54,6 @@
 - [joschan21/pingpanda](https://github.com/joschan21/pingpanda) - A Modern Fullstack Event Monitoring SaaS (1 week ago)
 - [marcelkooi/awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software (2 weeks ago)
 - [timfraedrich/OutRun](https://github.com/timfraedrich/OutRun) - OutRun is an open-source, privacy oriented, outdoor fitness tracker. (3 weeks ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (3 weeks ago)
-- [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
