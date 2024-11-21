@@ -29,9 +29,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (today)
+- [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (1 day ago)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (4 months ago)
-- [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (5 months ago)
+- [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (6 months ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [kliton-yt/scrape-flow-assets](https://github.com/kliton-yt/scrape-flow-assets) -  (today)
-- [oliver-gomes/magic-social-ai](https://github.com/oliver-gomes/magic-social-ai) -  (today)
-- [AbeTavarez/AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) - 🚀 Build an AI-Powered Stock Market Chatbot App with Next.js 14 and OpenAI! 📈 (6 days ago)
+- [kliton-yt/scrape-flow-assets](https://github.com/kliton-yt/scrape-flow-assets) -  (1 day ago)
+- [oliver-gomes/magic-social-ai](https://github.com/oliver-gomes/magic-social-ai) -  (1 day ago)
+- [AbeTavarez/AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) - 🚀 Build an AI-Powered Stock Market Chatbot App with Next.js 14 and OpenAI! 📈 (1 week ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (1 week ago)
 - [Andreaswt/thumbnails](https://github.com/Andreaswt/thumbnails) -  (1 week ago)
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (1 week ago)
