@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (today)
 - [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (1 day ago)
 - [kliton-yt/scrape-flow-assets](https://github.com/kliton-yt/scrape-flow-assets) -  (2 days ago)
 - [oliver-gomes/magic-social-ai](https://github.com/oliver-gomes/magic-social-ai) -  (2 days ago)
@@ -53,7 +54,6 @@
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (1 week ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 week ago)
 - [joschan21/pingpanda](https://github.com/joschan21/pingpanda) - A Modern Fullstack Event Monitoring SaaS (1 week ago)
-- [marcelkooi/awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
