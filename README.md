@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (6 days ago)
+- [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (1 week ago)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (4 months ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (6 months ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (7 months ago)
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
-- [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (4 days ago)
-- [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (4 days ago)
-- [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (5 days ago)
-- [kliton-yt/scrape-flow-assets](https://github.com/kliton-yt/scrape-flow-assets) -  (6 days ago)
-- [oliver-gomes/magic-social-ai](https://github.com/oliver-gomes/magic-social-ai) -  (6 days ago)
+- [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (5 days ago)
+- [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (5 days ago)
+- [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (6 days ago)
+- [kliton-yt/scrape-flow-assets](https://github.com/kliton-yt/scrape-flow-assets) -  (1 week ago)
+- [oliver-gomes/magic-social-ai](https://github.com/oliver-gomes/magic-social-ai) -  (1 week ago)
 - [AbeTavarez/AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) - 🚀 Build an AI-Powered Stock Market Chatbot App with Next.js 14 and OpenAI! 📈 (1 week ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (2 weeks ago)
 - [Andreaswt/thumbnails](https://github.com/Andreaswt/thumbnails) -  (2 weeks ago)
