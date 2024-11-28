@@ -44,13 +44,13 @@
 
 #### ⭐ Recent Stars
 
-- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (today)
-- [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (5 days ago)
-- [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (5 days ago)
-- [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (6 days ago)
+- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (1 day ago)
+- [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (6 days ago)
+- [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (6 days ago)
+- [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (1 week ago)
 - [kliton-yt/scrape-flow-assets](https://github.com/kliton-yt/scrape-flow-assets) -  (1 week ago)
 - [oliver-gomes/magic-social-ai](https://github.com/oliver-gomes/magic-social-ai) -  (1 week ago)
-- [AbeTavarez/AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) - 🚀 Build an AI-Powered Stock Market Chatbot App with Next.js 14 and OpenAI! 📈 (1 week ago)
+- [AbeTavarez/AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) - 🚀 Build an AI-Powered Stock Market Chatbot App with Next.js 14 and OpenAI! 📈 (2 weeks ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (2 weeks ago)
 - [Andreaswt/thumbnails](https://github.com/Andreaswt/thumbnails) -  (2 weeks ago)
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (2 weeks ago)
