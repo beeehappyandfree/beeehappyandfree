@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (today)
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (2 days ago)
 - [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (1 week ago)
 - [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (1 week ago)
@@ -53,7 +54,6 @@
 - [AbeTavarez/AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) - 🚀 Build an AI-Powered Stock Market Chatbot App with Next.js 14 and OpenAI! 📈 (2 weeks ago)
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (2 weeks ago)
 - [Andreaswt/thumbnails](https://github.com/Andreaswt/thumbnails) -  (2 weeks ago)
-- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
