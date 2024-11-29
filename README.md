@@ -36,7 +36,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.6](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.6), 3 weeks ago) - CDK constructs for self-hosted GitHub Actions runners
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.6](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.6), 4 weeks ago) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (1 day ago)
-- [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (6 days ago)
-- [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (6 days ago)
+- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (2 days ago)
+- [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (1 week ago)
+- [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (1 week ago)
 - [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (1 week ago)
 - [kliton-yt/scrape-flow-assets](https://github.com/kliton-yt/scrape-flow-assets) -  (1 week ago)
 - [oliver-gomes/magic-social-ai](https://github.com/oliver-gomes/magic-social-ai) -  (1 week ago)
