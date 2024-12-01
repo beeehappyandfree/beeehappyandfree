@@ -30,13 +30,13 @@
 #### 👷 Check out what I'm currently working on
 
 - [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (1 week ago)
-- [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (4 months ago)
+- [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (5 months ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (6 months ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.7](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.7), 1 day ago) - CDK constructs for self-hosted GitHub Actions runners
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.7](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.7), 2 days ago) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (1 day ago)
-- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (3 days ago)
+- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (2 days ago)
+- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (4 days ago)
 - [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (1 week ago)
 - [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (1 week ago)
 - [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (1 week ago)
