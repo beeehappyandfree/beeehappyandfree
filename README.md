@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (today)
 - [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (1 day ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (4 days ago)
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (6 days ago)
@@ -53,7 +54,6 @@
 - [kliton-yt/scrape-flow-assets](https://github.com/kliton-yt/scrape-flow-assets) -  (1 week ago)
 - [oliver-gomes/magic-social-ai](https://github.com/oliver-gomes/magic-social-ai) -  (1 week ago)
 - [AbeTavarez/AI-Stock-Market-Chatbot](https://github.com/AbeTavarez/AI-Stock-Market-Chatbot) - 🚀 Build an AI-Powered Stock Market Chatbot App with Next.js 14 and OpenAI! 📈 (2 weeks ago)
-- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
