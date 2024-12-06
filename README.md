@@ -36,7 +36,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.7](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.7), 6 days ago) - CDK constructs for self-hosted GitHub Actions runners
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.7](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.7), 1 week ago) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
@@ -44,12 +44,12 @@
 
 #### ⭐ Recent Stars
 
-- [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (2 days ago)
-- [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (3 days ago)
-- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (6 days ago)
+- [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (3 days ago)
+- [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (4 days ago)
+- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (1 week ago)
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (1 week ago)
-- [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (1 week ago)
-- [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (1 week ago)
+- [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (2 weeks ago)
+- [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (2 weeks ago)
 - [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (2 weeks ago)
 - [kliton-yt/scrape-flow-assets](https://github.com/kliton-yt/scrape-flow-assets) -  (2 weeks ago)
 - [oliver-gomes/magic-social-ai](https://github.com/oliver-gomes/magic-social-ai) -  (2 weeks ago)
