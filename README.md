@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (3 days ago)
-- [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (4 days ago)
+- [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (4 days ago)
+- [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (5 days ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (1 week ago)
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (1 week ago)
 - [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (2 weeks ago)
