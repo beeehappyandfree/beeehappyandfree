@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [bmorrisondev/bookmate](https://github.com/bmorrisondev/bookmate) -  (1 day ago)
-- [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (1 day ago)
-- [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (5 days ago)
-- [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (6 days ago)
+- [bmorrisondev/bookmate](https://github.com/bmorrisondev/bookmate) -  (2 days ago)
+- [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (2 days ago)
+- [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (6 days ago)
+- [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (1 week ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (1 week ago)
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (1 week ago)
 - [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (2 weeks ago)
