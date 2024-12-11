@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (2 weeks ago)
+- [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (3 weeks ago)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (5 months ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (6 months ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (7 months ago)
@@ -44,13 +44,13 @@
 
 #### ⭐ Recent Stars
 
-- [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach. (1 day ago)
-- [bmorrisondev/bookmate](https://github.com/bmorrisondev/bookmate) -  (3 days ago)
-- [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (3 days ago)
+- [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach. (2 days ago)
+- [bmorrisondev/bookmate](https://github.com/bmorrisondev/bookmate) -  (4 days ago)
+- [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (4 days ago)
 - [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (1 week ago)
 - [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (1 week ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (1 week ago)
-- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (1 week ago)
+- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (2 weeks ago)
 - [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (2 weeks ago)
 - [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (2 weeks ago)
 - [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (2 weeks ago)
