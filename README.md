@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
-- [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach. (2 days ago)
-- [bmorrisondev/bookmate](https://github.com/bmorrisondev/bookmate) -  (4 days ago)
-- [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (4 days ago)
+- [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach. (3 days ago)
+- [bmorrisondev/bookmate](https://github.com/bmorrisondev/bookmate) -  (5 days ago)
+- [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (5 days ago)
 - [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (1 week ago)
 - [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (1 week ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (1 week ago)
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (2 weeks ago)
 - [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (2 weeks ago)
 - [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (2 weeks ago)
-- [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (2 weeks ago)
+- [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
