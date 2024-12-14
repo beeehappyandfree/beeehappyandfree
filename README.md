@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach. (4 days ago)
-- [bmorrisondev/bookmate](https://github.com/bmorrisondev/bookmate) -  (6 days ago)
-- [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (6 days ago)
+- [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach. (5 days ago)
+- [bmorrisondev/bookmate](https://github.com/bmorrisondev/bookmate) -  (1 week ago)
+- [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (1 week ago)
 - [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (1 week ago)
 - [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (1 week ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (2 weeks ago)
