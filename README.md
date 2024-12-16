@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI &#43; elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁 (today)
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (today)
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (today)
+- [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (today)
 - [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach. (1 week ago)
 - [bmorrisondev/bookmate](https://github.com/bmorrisondev/bookmate) -  (1 week ago)
 - [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (1 week ago)
 - [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (1 week ago)
 - [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (2 weeks ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (2 weeks ago)
-- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (2 weeks ago)
-- [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (3 weeks ago)
-- [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (3 weeks ago)
-- [alexdebrie/dynamodb-instagram](https://github.com/alexdebrie/dynamodb-instagram) -  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
