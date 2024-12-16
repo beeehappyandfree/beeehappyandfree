@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
-- [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach. (6 days ago)
+- [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach. (1 week ago)
 - [bmorrisondev/bookmate](https://github.com/bmorrisondev/bookmate) -  (1 week ago)
 - [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (1 week ago)
 - [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (1 week ago)
-- [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (1 week ago)
+- [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (2 weeks ago)
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (2 weeks ago)
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams (2 weeks ago)
 - [CodeWithGionatha-Labs/dory-clone](https://github.com/CodeWithGionatha-Labs/dory-clone) - Full Stack Q&amp;A and Polls platform (inspired by Dory) developed with Nextjs. (3 weeks ago)
