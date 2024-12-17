@@ -57,5 +57,6 @@
 
 #### 👯 Check out some of my recent followers
 
+- [tan7bot](https://github.com/tan7bot)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
