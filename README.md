@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (today)
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI &#43; elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁 (2 days ago)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (2 days ago)
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (2 days ago)
@@ -53,7 +54,6 @@
 - [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (1 week ago)
 - [bmorrisondev/dailyreps-article-walkthrough](https://github.com/bmorrisondev/dailyreps-article-walkthrough) -  (2 weeks ago)
 - [webprodigies/slide-webprodigies](https://github.com/webprodigies/slide-webprodigies) -  (2 weeks ago)
-- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
