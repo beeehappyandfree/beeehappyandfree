@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [bharathbabu-moralis/pump-fun-clone-moralis](https://github.com/bharathbabu-moralis/pump-fun-clone-moralis) -  (today)
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs (1 day ago)
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (1 day ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 day ago)
@@ -53,7 +54,6 @@
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (3 days ago)
 - [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach. (1 week ago)
 - [bmorrisondev/bookmate](https://github.com/bmorrisondev/bookmate) -  (1 week ago)
-- [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
