@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [piyushgarg-dev/leetcode-whisper-chrome-extension](https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension) -  (today)
 - [coinbase/cdp-agentkit](https://github.com/coinbase/cdp-agentkit) -  (2 days ago)
 - [bharathbabu-moralis/pump-fun-clone-moralis](https://github.com/bharathbabu-moralis/pump-fun-clone-moralis) -  (2 days ago)
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs (3 days ago)
@@ -53,7 +54,6 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (5 days ago)
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (5 days ago)
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (5 days ago)
-- [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
