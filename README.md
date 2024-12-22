@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API (today)
 - [piyushgarg-dev/leetcode-whisper-chrome-extension](https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension) -  (1 day ago)
 - [coinbase/cdp-agentkit](https://github.com/coinbase/cdp-agentkit) -  (3 days ago)
 - [bharathbabu-moralis/pump-fun-clone-moralis](https://github.com/bharathbabu-moralis/pump-fun-clone-moralis) -  (3 days ago)
@@ -53,7 +54,6 @@
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI &#43; elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁 (6 days ago)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (6 days ago)
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (6 days ago)
-- [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
