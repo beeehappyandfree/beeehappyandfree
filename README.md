@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly (con)text to paste into any LLM (2 days ago)
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly extract of a codebase  (2 days ago)
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API (3 days ago)
 - [piyushgarg-dev/leetcode-whisper-chrome-extension](https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension) -  (4 days ago)
 - [coinbase/cdp-agentkit](https://github.com/coinbase/cdp-agentkit) -  (6 days ago)
