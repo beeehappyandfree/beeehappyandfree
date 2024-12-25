@@ -32,7 +32,7 @@
 - [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (1 month ago)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (5 months ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (7 months ago)
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (7 months ago)
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -44,14 +44,14 @@
 
 #### ⭐ Recent Stars
 
-- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly (con)text to paste into any LLM (1 day ago)
-- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API (2 days ago)
-- [piyushgarg-dev/leetcode-whisper-chrome-extension](https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension) -  (3 days ago)
-- [coinbase/cdp-agentkit](https://github.com/coinbase/cdp-agentkit) -  (5 days ago)
-- [bharathbabu-moralis/pump-fun-clone-moralis](https://github.com/bharathbabu-moralis/pump-fun-clone-moralis) -  (5 days ago)
-- [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs (6 days ago)
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (6 days ago)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (6 days ago)
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly (con)text to paste into any LLM (2 days ago)
+- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API (3 days ago)
+- [piyushgarg-dev/leetcode-whisper-chrome-extension](https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension) -  (4 days ago)
+- [coinbase/cdp-agentkit](https://github.com/coinbase/cdp-agentkit) -  (6 days ago)
+- [bharathbabu-moralis/pump-fun-clone-moralis](https://github.com/bharathbabu-moralis/pump-fun-clone-moralis) -  (6 days ago)
+- [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs (1 week ago)
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (1 week ago)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 week ago)
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI &#43; elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁 (1 week ago)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (1 week ago)
 
