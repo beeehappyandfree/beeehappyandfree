@@ -44,6 +44,8 @@
 
 #### ⭐ Recent Stars
 
+- [ibttf/internio](https://github.com/ibttf/internio) - Web-scraper to find up-to-date internship opportunities in tech (today)
+- [ibttf/columbia-notetaker](https://github.com/ibttf/columbia-notetaker) - A Chrome extension to take AI-generated notes of your Columbia recordings. (today)
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly extract of a codebase  (1 week ago)
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API (1 week ago)
 - [piyushgarg-dev/leetcode-whisper-chrome-extension](https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension) -  (1 week ago)
@@ -52,8 +54,6 @@
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs (2 weeks ago)
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (2 weeks ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (2 weeks ago)
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI &#43; elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁 (2 weeks ago)
-- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
