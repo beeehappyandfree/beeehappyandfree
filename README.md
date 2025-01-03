@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [ibttf/internio](https://github.com/ibttf/internio) - Web-scraper to find up-to-date internship opportunities in tech (today)
-- [ibttf/columbia-notetaker](https://github.com/ibttf/columbia-notetaker) - A Chrome extension to take AI-generated notes of your Columbia recordings. (today)
+- [ibttf/internio](https://github.com/ibttf/internio) - Web-scraper to find up-to-date internship opportunities in tech (1 day ago)
+- [ibttf/columbia-notetaker](https://github.com/ibttf/columbia-notetaker) - A Chrome extension to take AI-generated notes of your Columbia recordings. (1 day ago)
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly extract of a codebase  (1 week ago)
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API (1 week ago)
 - [piyushgarg-dev/leetcode-whisper-chrome-extension](https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension) -  (1 week ago)
