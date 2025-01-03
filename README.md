@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [All-Hands-AI/openhands-aci](https://github.com/All-Hands-AI/openhands-aci) - Agent computer interface for AI software engineer. (today)
 - [callstackincubator/cali](https://github.com/callstackincubator/cali) - AI agent for building React Native apps (today)
 - [happo/happo.io](https://github.com/happo/happo.io) - Happo is a cross-browser screenshot testing service (today)
 - [ibttf/internio](https://github.com/ibttf/internio) - Web-scraper to find up-to-date internship opportunities in tech (1 day ago)
@@ -53,7 +54,6 @@
 - [piyushgarg-dev/leetcode-whisper-chrome-extension](https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension) -  (1 week ago)
 - [coinbase/cdp-agentkit](https://github.com/coinbase/cdp-agentkit) -  (2 weeks ago)
 - [bharathbabu-moralis/pump-fun-clone-moralis](https://github.com/bharathbabu-moralis/pump-fun-clone-moralis) -  (2 weeks ago)
-- [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
