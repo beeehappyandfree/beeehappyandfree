@@ -44,6 +44,8 @@
 
 #### ⭐ Recent Stars
 
+- [callstackincubator/cali](https://github.com/callstackincubator/cali) - AI agent for building React Native apps (today)
+- [happo/happo.io](https://github.com/happo/happo.io) - Happo is a cross-browser screenshot testing service (today)
 - [ibttf/internio](https://github.com/ibttf/internio) - Web-scraper to find up-to-date internship opportunities in tech (1 day ago)
 - [ibttf/columbia-notetaker](https://github.com/ibttf/columbia-notetaker) - A Chrome extension to take AI-generated notes of your Columbia recordings. (1 day ago)
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly extract of a codebase  (1 week ago)
@@ -52,8 +54,6 @@
 - [coinbase/cdp-agentkit](https://github.com/coinbase/cdp-agentkit) -  (2 weeks ago)
 - [bharathbabu-moralis/pump-fun-clone-moralis](https://github.com/bharathbabu-moralis/pump-fun-clone-moralis) -  (2 weeks ago)
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs (2 weeks ago)
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (2 weeks ago)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
