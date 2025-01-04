@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
-- [aws-samples/generative-ai-use-cases-jp](https://github.com/aws-samples/generative-ai-use-cases-jp) - すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装 (today)
-- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A Cross-platform AI chat application built with React Native and powered by Amazon Bedrock (today)
-- [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock &#43; Claude (&#43;Nova and Mistral) (today)
-- [aws-samples/rss-aggregator-using-cohere-embeddings-bedrock](https://github.com/aws-samples/rss-aggregator-using-cohere-embeddings-bedrock) - A sample rss aggregator application demonstrating the use of Cohere Embeddings (today)
-- [build-on-aws/bedrock-agent-appointment-manager-dynamodb](https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb) - I&#39;ll guide you through setting up the resources, defining the agent&#39;s action groups, associating AWS Lambda functions to execute DynamoDB operations, and integrating the knowledge base for enhanced conversational experiences to provide more personalized and context-aware responses to user queries. All this with a &#39;CDK deploy&#39; command using the AWS (today)
-- [build-on-aws/amazon-bedrock-minecraft-agent](https://github.com/build-on-aws/amazon-bedrock-minecraft-agent) - AI agentic bot for Minecraft using Agents for Amazon Bedrock. (today)
-- [All-Hands-AI/openhands-aci](https://github.com/All-Hands-AI/openhands-aci) - Agent computer interface for AI software engineer. (today)
-- [callstackincubator/cali](https://github.com/callstackincubator/cali) - AI agent for building React Native apps (today)
-- [happo/happo.io](https://github.com/happo/happo.io) - Happo is a cross-browser screenshot testing service (today)
-- [ibttf/internio](https://github.com/ibttf/internio) - Web-scraper to find up-to-date internship opportunities in tech (1 day ago)
+- [aws-samples/generative-ai-use-cases-jp](https://github.com/aws-samples/generative-ai-use-cases-jp) - すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装 (1 day ago)
+- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A Cross-platform AI chat application built with React Native and powered by Amazon Bedrock (1 day ago)
+- [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock &#43; Claude (&#43;Nova and Mistral) (1 day ago)
+- [aws-samples/rss-aggregator-using-cohere-embeddings-bedrock](https://github.com/aws-samples/rss-aggregator-using-cohere-embeddings-bedrock) - A sample rss aggregator application demonstrating the use of Cohere Embeddings (1 day ago)
+- [build-on-aws/bedrock-agent-appointment-manager-dynamodb](https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb) - I&#39;ll guide you through setting up the resources, defining the agent&#39;s action groups, associating AWS Lambda functions to execute DynamoDB operations, and integrating the knowledge base for enhanced conversational experiences to provide more personalized and context-aware responses to user queries. All this with a &#39;CDK deploy&#39; command using the AWS (1 day ago)
+- [build-on-aws/amazon-bedrock-minecraft-agent](https://github.com/build-on-aws/amazon-bedrock-minecraft-agent) - AI agentic bot for Minecraft using Agents for Amazon Bedrock. (1 day ago)
+- [All-Hands-AI/openhands-aci](https://github.com/All-Hands-AI/openhands-aci) - Agent computer interface for AI software engineer. (1 day ago)
+- [callstackincubator/cali](https://github.com/callstackincubator/cali) - AI agent for building React Native apps (1 day ago)
+- [happo/happo.io](https://github.com/happo/happo.io) - Happo is a cross-browser screenshot testing service (1 day ago)
+- [ibttf/internio](https://github.com/ibttf/internio) - Web-scraper to find up-to-date internship opportunities in tech (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
