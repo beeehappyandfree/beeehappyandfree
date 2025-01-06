@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
-- [aws-samples/sample-connector-for-bedrock](https://github.com/aws-samples/sample-connector-for-bedrock) - Seamlessly invoke Amazon Bedrock or your custom models, enabling a smooth experience with AWS GenAI services. (today)
-- [MODSetter/gpt-instagram](https://github.com/MODSetter/gpt-instagram) - A GPT-based autonomous multi-agent AI in Next.js that research &amp; recommends Instagram Viral Posts reflecting your personality. (today)
-- [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity (today)
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip&#39;s your AI agents &amp; LLMs with 100&#43; high-quality integrations via function calling (today)
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents (today)
-- [aws-samples/generative-ai-use-cases-jp](https://github.com/aws-samples/generative-ai-use-cases-jp) - すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装 (2 days ago)
-- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A Cross-platform AI chat application built with React Native and powered by Amazon Bedrock (2 days ago)
-- [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock &#43; Claude (&#43;Nova and Mistral) (2 days ago)
-- [aws-samples/rss-aggregator-using-cohere-embeddings-bedrock](https://github.com/aws-samples/rss-aggregator-using-cohere-embeddings-bedrock) - A sample rss aggregator application demonstrating the use of Cohere Embeddings (2 days ago)
-- [build-on-aws/bedrock-agent-appointment-manager-dynamodb](https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb) - I&#39;ll guide you through setting up the resources, defining the agent&#39;s action groups, associating AWS Lambda functions to execute DynamoDB operations, and integrating the knowledge base for enhanced conversational experiences to provide more personalized and context-aware responses to user queries. All this with a &#39;CDK deploy&#39; command using the AWS (2 days ago)
+- [aws-samples/sample-connector-for-bedrock](https://github.com/aws-samples/sample-connector-for-bedrock) - Seamlessly invoke Amazon Bedrock or your custom models, enabling a smooth experience with AWS GenAI services. (1 day ago)
+- [MODSetter/gpt-instagram](https://github.com/MODSetter/gpt-instagram) - A GPT-based autonomous multi-agent AI in Next.js that research &amp; recommends Instagram Viral Posts reflecting your personality. (1 day ago)
+- [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity (1 day ago)
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip&#39;s your AI agents &amp; LLMs with 100&#43; high-quality integrations via function calling (1 day ago)
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents (1 day ago)
+- [aws-samples/generative-ai-use-cases-jp](https://github.com/aws-samples/generative-ai-use-cases-jp) - すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装 (3 days ago)
+- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A Cross-platform AI chat application built with React Native and powered by Amazon Bedrock (3 days ago)
+- [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock &#43; Claude (&#43;Nova and Mistral) (3 days ago)
+- [aws-samples/rss-aggregator-using-cohere-embeddings-bedrock](https://github.com/aws-samples/rss-aggregator-using-cohere-embeddings-bedrock) - A sample rss aggregator application demonstrating the use of Cohere Embeddings (3 days ago)
+- [build-on-aws/bedrock-agent-appointment-manager-dynamodb](https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb) - I&#39;ll guide you through setting up the resources, defining the agent&#39;s action groups, associating AWS Lambda functions to execute DynamoDB operations, and integrating the knowledge base for enhanced conversational experiences to provide more personalized and context-aware responses to user queries. All this with a &#39;CDK deploy&#39; command using the AWS (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
