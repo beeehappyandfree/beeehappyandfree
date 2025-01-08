@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations. (today)
 - [aws-samples/sample-connector-for-bedrock](https://github.com/aws-samples/sample-connector-for-bedrock) - Seamlessly invoke Amazon Bedrock or your custom models, enabling a smooth experience with AWS GenAI services. (3 days ago)
 - [MODSetter/gpt-instagram](https://github.com/MODSetter/gpt-instagram) - A GPT-based autonomous multi-agent AI in Next.js that research &amp; recommends Instagram Viral Posts reflecting your personality. (3 days ago)
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity (3 days ago)
@@ -53,7 +54,6 @@
 - [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A Cross-platform AI chat application built with React Native and powered by Amazon Bedrock (5 days ago)
 - [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock &#43; Claude (&#43;Nova and Mistral) (5 days ago)
 - [aws-samples/rss-aggregator-using-cohere-embeddings-bedrock](https://github.com/aws-samples/rss-aggregator-using-cohere-embeddings-bedrock) - A sample rss aggregator application demonstrating the use of Cohere Embeddings (5 days ago)
-- [build-on-aws/bedrock-agent-appointment-manager-dynamodb](https://github.com/build-on-aws/bedrock-agent-appointment-manager-dynamodb) - I&#39;ll guide you through setting up the resources, defining the agent&#39;s action groups, associating AWS Lambda functions to execute DynamoDB operations, and integrating the knowledge base for enhanced conversational experiences to provide more personalized and context-aware responses to user queries. All this with a &#39;CDK deploy&#39; command using the AWS (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
