@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (today)
 - [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations. (1 day ago)
 - [aws-samples/sample-connector-for-bedrock](https://github.com/aws-samples/sample-connector-for-bedrock) - Seamlessly invoke Amazon Bedrock or your custom models, enabling a smooth experience with AWS GenAI services. (4 days ago)
 - [MODSetter/gpt-instagram](https://github.com/MODSetter/gpt-instagram) - A GPT-based autonomous multi-agent AI in Next.js that research &amp; recommends Instagram Viral Posts reflecting your personality. (4 days ago)
@@ -53,7 +54,6 @@
 - [aws-samples/generative-ai-use-cases-jp](https://github.com/aws-samples/generative-ai-use-cases-jp) - すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装 (6 days ago)
 - [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A Cross-platform AI chat application built with React Native and powered by Amazon Bedrock (6 days ago)
 - [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock &#43; Claude (&#43;Nova and Mistral) (6 days ago)
-- [aws-samples/rss-aggregator-using-cohere-embeddings-bedrock](https://github.com/aws-samples/rss-aggregator-using-cohere-embeddings-bedrock) - A sample rss aggregator application demonstrating the use of Cohere Embeddings (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
