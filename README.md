@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software (today)
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games (today)
 - [mrdbourke/food-not-food](https://github.com/mrdbourke/food-not-food) - Machine Learning powered app to decide whether a photo is food or not. (today)
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (today)
@@ -53,7 +54,6 @@
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity (4 days ago)
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip&#39;s your AI agents &amp; LLMs with 100&#43; high-quality integrations via function calling (4 days ago)
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents (4 days ago)
-- [aws-samples/generative-ai-use-cases-jp](https://github.com/aws-samples/generative-ai-use-cases-jp) - すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装 (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
