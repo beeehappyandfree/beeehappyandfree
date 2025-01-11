@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting (today)
 - [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software (2 days ago)
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games (2 days ago)
 - [mrdbourke/food-not-food](https://github.com/mrdbourke/food-not-food) - Machine Learning powered app to decide whether a photo is food or not. (2 days ago)
@@ -53,7 +54,6 @@
 - [MODSetter/gpt-instagram](https://github.com/MODSetter/gpt-instagram) - A GPT-based autonomous multi-agent AI in Next.js that research &amp; recommends Instagram Viral Posts reflecting your personality. (6 days ago)
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity (6 days ago)
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip&#39;s your AI agents &amp; LLMs with 100&#43; high-quality integrations via function calling (6 days ago)
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
