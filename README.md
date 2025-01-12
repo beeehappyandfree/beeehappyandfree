@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting (today)
-- [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software (2 days ago)
-- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games (2 days ago)
-- [mrdbourke/food-not-food](https://github.com/mrdbourke/food-not-food) - Machine Learning powered app to decide whether a photo is food or not. (2 days ago)
-- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (2 days ago)
-- [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations. (3 days ago)
-- [aws-samples/sample-connector-for-bedrock](https://github.com/aws-samples/sample-connector-for-bedrock) - Seamlessly invoke Amazon Bedrock or your custom models, enabling a smooth experience with AWS GenAI services. (6 days ago)
-- [MODSetter/gpt-instagram](https://github.com/MODSetter/gpt-instagram) - A GPT-based autonomous multi-agent AI in Next.js that research &amp; recommends Instagram Viral Posts reflecting your personality. (6 days ago)
-- [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity (6 days ago)
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip&#39;s your AI agents &amp; LLMs with 100&#43; high-quality integrations via function calling (6 days ago)
+- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting (1 day ago)
+- [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software (3 days ago)
+- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games (3 days ago)
+- [mrdbourke/food-not-food](https://github.com/mrdbourke/food-not-food) - Machine Learning powered app to decide whether a photo is food or not. (3 days ago)
+- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (3 days ago)
+- [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations. (4 days ago)
+- [aws-samples/sample-connector-for-bedrock](https://github.com/aws-samples/sample-connector-for-bedrock) - Seamlessly invoke Amazon Bedrock or your custom models, enabling a smooth experience with AWS GenAI services. (1 week ago)
+- [MODSetter/gpt-instagram](https://github.com/MODSetter/gpt-instagram) - A GPT-based autonomous multi-agent AI in Next.js that research &amp; recommends Instagram Viral Posts reflecting your personality. (1 week ago)
+- [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity (1 week ago)
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip&#39;s your AI agents &amp; LLMs with 100&#43; high-quality integrations via function calling (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
