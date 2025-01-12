@@ -57,6 +57,5 @@
 
 #### 👯 Check out some of my recent followers
 
-- [feder-cr](https://github.com/feder-cr)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
