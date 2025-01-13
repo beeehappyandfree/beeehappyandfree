@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - Learn Git with me is a free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners. (today)
 - [wslyvh/music-journal](https://github.com/wslyvh/music-journal) - Record, reflect and improve your music practice (1 day ago)
 - [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js &#43; Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡ (1 day ago)
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting (2 days ago)
@@ -53,7 +54,6 @@
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (4 days ago)
 - [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations. (5 days ago)
 - [aws-samples/sample-connector-for-bedrock](https://github.com/aws-samples/sample-connector-for-bedrock) - Seamlessly invoke Amazon Bedrock or your custom models, enabling a smooth experience with AWS GenAI services. (1 week ago)
-- [MODSetter/gpt-instagram](https://github.com/MODSetter/gpt-instagram) - A GPT-based autonomous multi-agent AI in Next.js that research &amp; recommends Instagram Viral Posts reflecting your personality. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
