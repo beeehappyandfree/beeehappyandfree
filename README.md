@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
-- [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4 (today)
-- [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - Learn Git with me is a free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners. (today)
-- [wslyvh/music-journal](https://github.com/wslyvh/music-journal) - Record, reflect and improve your music practice (1 day ago)
-- [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js &#43; Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡ (1 day ago)
-- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting (2 days ago)
-- [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software (4 days ago)
-- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games (4 days ago)
-- [mrdbourke/food-not-food](https://github.com/mrdbourke/food-not-food) - Machine Learning powered app to decide whether a photo is food or not. (4 days ago)
-- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (4 days ago)
-- [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations. (5 days ago)
+- [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4 (1 day ago)
+- [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - Learn Git with me is a free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners. (1 day ago)
+- [wslyvh/music-journal](https://github.com/wslyvh/music-journal) - Record, reflect and improve your music practice (2 days ago)
+- [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js &#43; Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡ (2 days ago)
+- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting (3 days ago)
+- [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software (5 days ago)
+- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games (5 days ago)
+- [mrdbourke/food-not-food](https://github.com/mrdbourke/food-not-food) - Machine Learning powered app to decide whether a photo is food or not. (5 days ago)
+- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (5 days ago)
+- [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
