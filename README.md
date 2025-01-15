@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place (today)
 - [Andreaswt/ai-video-sentiment-model](https://github.com/Andreaswt/ai-video-sentiment-model) -  (1 day ago)
 - [Andreaswt/ai-video-sentiment-saas](https://github.com/Andreaswt/ai-video-sentiment-saas) -  (1 day ago)
 - [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4 (2 days ago)
@@ -53,7 +54,6 @@
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting (4 days ago)
 - [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software (6 days ago)
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games (6 days ago)
-- [mrdbourke/food-not-food](https://github.com/mrdbourke/food-not-food) - Machine Learning powered app to decide whether a photo is food or not. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
