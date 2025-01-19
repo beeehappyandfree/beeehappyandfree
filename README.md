@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (1 month ago)
+- [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (2 months ago)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (6 months ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (7 months ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (8 months ago)
@@ -44,13 +44,13 @@
 
 #### ⭐ Recent Stars
 
-- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place (3 days ago)
-- [Andreaswt/ai-video-sentiment-model](https://github.com/Andreaswt/ai-video-sentiment-model) -  (4 days ago)
-- [Andreaswt/ai-video-sentiment-saas](https://github.com/Andreaswt/ai-video-sentiment-saas) -  (4 days ago)
-- [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4 (5 days ago)
-- [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - Learn Git with me is a free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners. (5 days ago)
-- [wslyvh/music-journal](https://github.com/wslyvh/music-journal) - Record, reflect and improve your music practice (6 days ago)
-- [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js &#43; Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡ (6 days ago)
+- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place (4 days ago)
+- [Andreaswt/ai-video-sentiment-model](https://github.com/Andreaswt/ai-video-sentiment-model) -  (5 days ago)
+- [Andreaswt/ai-video-sentiment-saas](https://github.com/Andreaswt/ai-video-sentiment-saas) -  (5 days ago)
+- [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4 (6 days ago)
+- [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - Learn Git with me is a free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners. (6 days ago)
+- [wslyvh/music-journal](https://github.com/wslyvh/music-journal) - Record, reflect and improve your music practice (1 week ago)
+- [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js &#43; Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡ (1 week ago)
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting (1 week ago)
 - [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software (1 week ago)
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games (1 week ago)
