@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place (5 days ago)
-- [Andreaswt/ai-video-sentiment-model](https://github.com/Andreaswt/ai-video-sentiment-model) -  (6 days ago)
-- [Andreaswt/ai-video-sentiment-saas](https://github.com/Andreaswt/ai-video-sentiment-saas) -  (6 days ago)
+- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place (6 days ago)
+- [Andreaswt/ai-video-sentiment-model](https://github.com/Andreaswt/ai-video-sentiment-model) -  (1 week ago)
+- [Andreaswt/ai-video-sentiment-saas](https://github.com/Andreaswt/ai-video-sentiment-saas) -  (1 week ago)
 - [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4 (1 week ago)
 - [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - Learn Git with me is a free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners. (1 week ago)
 - [wslyvh/music-journal](https://github.com/wslyvh/music-journal) - Record, reflect and improve your music practice (1 week ago)
