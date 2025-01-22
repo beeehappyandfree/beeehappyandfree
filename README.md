@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
+- [aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot](https://github.com/aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot) -  (today)
+- [Podginator/LunchMeat](https://github.com/Podginator/LunchMeat) - A serverless first email statistics website. (today)
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading. (today)
+- [aws-samples/redcap-on-aws](https://github.com/aws-samples/redcap-on-aws) - Deploy REDCap (https://www.project-redcap.org/) on AWS with serverless resources (today)
 - [sbstjn/serverless-analytics](https://github.com/sbstjn/serverless-analytics) - Track website visitors with Serverless Analytics using Kinesis, Lambda, and TypeScript. (today)
 - [conermurphy/chatrock](https://github.com/conermurphy/chatrock) - The example repo for the tutorial of building Chatrock! (today)
 - [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place (1 week ago)
 - [Andreaswt/ai-video-sentiment-model](https://github.com/Andreaswt/ai-video-sentiment-model) -  (1 week ago)
 - [Andreaswt/ai-video-sentiment-saas](https://github.com/Andreaswt/ai-video-sentiment-saas) -  (1 week ago)
 - [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4 (1 week ago)
-- [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - Learn Git with me is a free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners. (1 week ago)
-- [wslyvh/music-journal](https://github.com/wslyvh/music-journal) - Record, reflect and improve your music practice (1 week ago)
-- [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js &#43; Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡ (1 week ago)
-- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
