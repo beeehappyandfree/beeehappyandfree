@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place (6 days ago)
+- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place (1 week ago)
 - [Andreaswt/ai-video-sentiment-model](https://github.com/Andreaswt/ai-video-sentiment-model) -  (1 week ago)
 - [Andreaswt/ai-video-sentiment-saas](https://github.com/Andreaswt/ai-video-sentiment-saas) -  (1 week ago)
 - [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4 (1 week ago)
