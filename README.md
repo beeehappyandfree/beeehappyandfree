@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [sbstjn/serverless-analytics](https://github.com/sbstjn/serverless-analytics) - Track website visitors with Serverless Analytics using Kinesis, Lambda, and TypeScript. (today)
 - [conermurphy/chatrock](https://github.com/conermurphy/chatrock) - The example repo for the tutorial of building Chatrock! (today)
 - [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place (1 week ago)
 - [Andreaswt/ai-video-sentiment-model](https://github.com/Andreaswt/ai-video-sentiment-model) -  (1 week ago)
@@ -53,7 +54,6 @@
 - [wslyvh/music-journal](https://github.com/wslyvh/music-journal) - Record, reflect and improve your music practice (1 week ago)
 - [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js &#43; Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡ (1 week ago)
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting (1 week ago)
-- [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
