@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (today)
 - [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs (today)
 - [aws-samples/aws-cdk-stack-builder-tool](https://github.com/aws-samples/aws-cdk-stack-builder-tool) - AWS CDK Builder is a browser-based tool designed to streamline bootstrapping of Infrastructure as Code (IaC) projects using the AWS Cloud Development Kit (CDK).  (today)
 - [aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot](https://github.com/aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot) -  (today)
@@ -53,7 +54,6 @@
 - [sbstjn/serverless-analytics](https://github.com/sbstjn/serverless-analytics) - Track website visitors with Serverless Analytics using Kinesis, Lambda, and TypeScript. (today)
 - [conermurphy/chatrock](https://github.com/conermurphy/chatrock) - The example repo for the tutorial of building Chatrock! (today)
 - [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place (1 week ago)
-- [Andreaswt/ai-video-sentiment-model](https://github.com/Andreaswt/ai-video-sentiment-model) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
