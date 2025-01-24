@@ -32,7 +32,7 @@
 - [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (2 months ago)
 - [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (6 months ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (8 months ago)
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (8 months ago)
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (today)
-- [royshil/telegram-serverless-ts-bot-tutorial](https://github.com/royshil/telegram-serverless-ts-bot-tutorial) - Telegram Typescript Serverless Bot Tutorial (today)
-- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (1 day ago)
-- [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs (1 day ago)
-- [aws-samples/aws-cdk-stack-builder-tool](https://github.com/aws-samples/aws-cdk-stack-builder-tool) - AWS CDK Builder is a browser-based tool designed to streamline bootstrapping of Infrastructure as Code (IaC) projects using the AWS Cloud Development Kit (CDK).  (1 day ago)
-- [aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot](https://github.com/aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot) -  (1 day ago)
-- [Podginator/LunchMeat](https://github.com/Podginator/LunchMeat) - A serverless first email statistics website. (1 day ago)
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading. (1 day ago)
-- [aws-samples/redcap-on-aws](https://github.com/aws-samples/redcap-on-aws) - Deploy REDCap (https://www.project-redcap.org/) on AWS with serverless resources (1 day ago)
-- [sbstjn/serverless-analytics](https://github.com/sbstjn/serverless-analytics) - Track website visitors with Serverless Analytics using Kinesis, Lambda, and TypeScript. (1 day ago)
+- [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Open-source project that demonstrates AI models for video producing on the browser (today)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 day ago)
+- [royshil/telegram-serverless-ts-bot-tutorial](https://github.com/royshil/telegram-serverless-ts-bot-tutorial) - Telegram Typescript Serverless Bot Tutorial (1 day ago)
+- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (2 days ago)
+- [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs (2 days ago)
+- [aws-samples/aws-cdk-stack-builder-tool](https://github.com/aws-samples/aws-cdk-stack-builder-tool) - AWS CDK Builder is a browser-based tool designed to streamline bootstrapping of Infrastructure as Code (IaC) projects using the AWS Cloud Development Kit (CDK).  (2 days ago)
+- [aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot](https://github.com/aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot) -  (2 days ago)
+- [Podginator/LunchMeat](https://github.com/Podginator/LunchMeat) - A serverless first email statistics website. (2 days ago)
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading. (2 days ago)
+- [aws-samples/redcap-on-aws](https://github.com/aws-samples/redcap-on-aws) - Deploy REDCap (https://www.project-redcap.org/) on AWS with serverless resources (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
