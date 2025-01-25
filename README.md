@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
-- [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser (today)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 day ago)
-- [royshil/telegram-serverless-ts-bot-tutorial](https://github.com/royshil/telegram-serverless-ts-bot-tutorial) - Telegram Typescript Serverless Bot Tutorial (1 day ago)
-- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (2 days ago)
-- [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs (2 days ago)
-- [aws-samples/aws-cdk-stack-builder-tool](https://github.com/aws-samples/aws-cdk-stack-builder-tool) - AWS CDK Builder is a browser-based tool designed to streamline bootstrapping of Infrastructure as Code (IaC) projects using the AWS Cloud Development Kit (CDK).  (2 days ago)
-- [aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot](https://github.com/aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot) -  (2 days ago)
-- [Podginator/LunchMeat](https://github.com/Podginator/LunchMeat) - A serverless first email statistics website. (2 days ago)
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading. (2 days ago)
-- [aws-samples/redcap-on-aws](https://github.com/aws-samples/redcap-on-aws) - Deploy REDCap (https://www.project-redcap.org/) on AWS with serverless resources (2 days ago)
+- [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser (1 day ago)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (2 days ago)
+- [royshil/telegram-serverless-ts-bot-tutorial](https://github.com/royshil/telegram-serverless-ts-bot-tutorial) - Telegram Typescript Serverless Bot Tutorial (2 days ago)
+- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (3 days ago)
+- [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs (3 days ago)
+- [aws-samples/aws-cdk-stack-builder-tool](https://github.com/aws-samples/aws-cdk-stack-builder-tool) - AWS CDK Builder is a browser-based tool designed to streamline bootstrapping of Infrastructure as Code (IaC) projects using the AWS Cloud Development Kit (CDK).  (3 days ago)
+- [aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot](https://github.com/aws-samples/two-way-multi-channel-chat-with-a-generative-ai-chatbot) -  (3 days ago)
+- [Podginator/LunchMeat](https://github.com/Podginator/LunchMeat) - A serverless first email statistics website. (3 days ago)
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading. (3 days ago)
+- [aws-samples/redcap-on-aws](https://github.com/aws-samples/redcap-on-aws) - Deploy REDCap (https://www.project-redcap.org/) on AWS with serverless resources (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
