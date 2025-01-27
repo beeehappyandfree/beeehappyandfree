@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [ski043/job-marshal-finale-locale](https://github.com/ski043/job-marshal-finale-locale) -  (today)
 - [code/app-nous](https://github.com/code/app-nous) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more (today)
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.   (today)
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free &#43; OSS logo generator powered by Flux on Together AI (today)
@@ -53,7 +54,6 @@
 - [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser (3 days ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (4 days ago)
 - [royshil/telegram-serverless-ts-bot-tutorial](https://github.com/royshil/telegram-serverless-ts-bot-tutorial) - Telegram Typescript Serverless Bot Tutorial (4 days ago)
-- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
