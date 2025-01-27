@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Telegram Bot library for CloudFlare Workers (today)
 - [ski043/job-marshal-finale-locale](https://github.com/ski043/job-marshal-finale-locale) -  (today)
 - [code/app-nous](https://github.com/code/app-nous) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more (today)
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.   (today)
@@ -53,7 +54,6 @@
 - [riceyrolling/tight-scene-fe5d](https://github.com/riceyrolling/tight-scene-fe5d) -  (today)
 - [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser (3 days ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (4 days ago)
-- [royshil/telegram-serverless-ts-bot-tutorial](https://github.com/royshil/telegram-serverless-ts-bot-tutorial) - Telegram Typescript Serverless Bot Tutorial (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
