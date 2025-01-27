@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.   (today)
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free &#43; OSS logo generator powered by Flux on Together AI (today)
 - [fishwasher/next-news](https://github.com/fishwasher/next-news) - A web news aggregation stack based on Next.js / React.js and NewsAPI (today)
 - [lucasferrazlima/news-pulse](https://github.com/lucasferrazlima/news-pulse) - This is a news aggregator application built with Next.js (today)
@@ -53,7 +54,6 @@
 - [royshil/telegram-serverless-ts-bot-tutorial](https://github.com/royshil/telegram-serverless-ts-bot-tutorial) - Telegram Typescript Serverless Bot Tutorial (4 days ago)
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. (5 days ago)
 - [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs (5 days ago)
-- [aws-samples/aws-cdk-stack-builder-tool](https://github.com/aws-samples/aws-cdk-stack-builder-tool) - AWS CDK Builder is a browser-based tool designed to streamline bootstrapping of Infrastructure as Code (IaC) projects using the AWS Cloud Development Kit (CDK).  (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
