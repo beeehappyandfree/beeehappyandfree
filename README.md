@@ -36,7 +36,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.7](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.7), 1 month ago) - CDK constructs for self-hosted GitHub Actions runners
+- [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) ([v0.14.7](https://github.com/CloudSnorkel/cdk-github-runners/releases/tag/v0.14.7), 2 months ago) - CDK constructs for self-hosted GitHub Actions runners
 
 #### 🔨 My recent Pull Requests
 
@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
-- [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Telegram Bot library for CloudFlare Workers (today)
-- [ski043/job-marshal-finale-locale](https://github.com/ski043/job-marshal-finale-locale) -  (today)
-- [code/app-nous](https://github.com/code/app-nous) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more (today)
-- [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.   (today)
-- [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free &#43; OSS logo generator powered by Flux on Together AI (today)
-- [fishwasher/next-news](https://github.com/fishwasher/next-news) - A web news aggregation stack based on Next.js / React.js and NewsAPI (today)
-- [lucasferrazlima/news-pulse](https://github.com/lucasferrazlima/news-pulse) - This is a news aggregator application built with Next.js (today)
-- [riceyrolling/tight-scene-fe5d](https://github.com/riceyrolling/tight-scene-fe5d) -  (today)
-- [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser (3 days ago)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (4 days ago)
+- [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Telegram Bot library for CloudFlare Workers (1 day ago)
+- [ski043/job-marshal-finale-locale](https://github.com/ski043/job-marshal-finale-locale) -  (1 day ago)
+- [code/app-nous](https://github.com/code/app-nous) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more (1 day ago)
+- [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.   (1 day ago)
+- [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free &#43; OSS logo generator powered by Flux on Together AI (1 day ago)
+- [fishwasher/next-news](https://github.com/fishwasher/next-news) - A web news aggregation stack based on Next.js / React.js and NewsAPI (1 day ago)
+- [lucasferrazlima/news-pulse](https://github.com/lucasferrazlima/news-pulse) - This is a news aggregator application built with Next.js (1 day ago)
+- [riceyrolling/tight-scene-fe5d](https://github.com/riceyrolling/tight-scene-fe5d) -  (1 day ago)
+- [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser (4 days ago)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
