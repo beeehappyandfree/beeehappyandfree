@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [Abood2284/NeonDrizzle-Cloudflare-Tutorial](https://github.com/Abood2284/NeonDrizzle-Cloudflare-Tutorial) - This is Youtube Tutorial on how to setup Cloudflare Worker &#43; NextJs in a monorepo with Neon as DB and Drizzle as ORM and finally deploying everything on your cloudflare (today)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (today)
 - [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Telegram Bot library for CloudFlare Workers (1 day ago)
 - [ski043/job-marshal-finale-locale](https://github.com/ski043/job-marshal-finale-locale) -  (1 day ago)
@@ -53,7 +54,6 @@
 - [fishwasher/next-news](https://github.com/fishwasher/next-news) - A web news aggregation stack based on Next.js / React.js and NewsAPI (1 day ago)
 - [lucasferrazlima/news-pulse](https://github.com/lucasferrazlima/news-pulse) - This is a news aggregator application built with Next.js (1 day ago)
 - [riceyrolling/tight-scene-fe5d](https://github.com/riceyrolling/tight-scene-fe5d) -  (1 day ago)
-- [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
