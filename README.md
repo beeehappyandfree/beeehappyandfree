@@ -30,7 +30,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [beeehappyandfree/partiy-deals-clone](https://github.com/beeehappyandfree/partiy-deals-clone) -  (2 months ago)
-- [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (6 months ago)
+- [beeehappyandfree/saas_learning](https://github.com/beeehappyandfree/saas_learning) -  (7 months ago)
 - [beeehappyandfree/bid-buddy](https://github.com/beeehappyandfree/bid-buddy) -  (8 months ago)
 - [CloudSnorkel/cdk-github-runners](https://github.com/CloudSnorkel/cdk-github-runners) - CDK constructs for self-hosted GitHub Actions runners (9 months ago)
 
@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
-- [Abood2284/NeonDrizzle-Cloudflare-Tutorial](https://github.com/Abood2284/NeonDrizzle-Cloudflare-Tutorial) - This is Youtube Tutorial on how to setup Cloudflare Worker &#43; NextJs in a monorepo with Neon as DB and Drizzle as ORM and finally deploying everything on your cloudflare (1 day ago)
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (1 day ago)
-- [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Telegram Bot library for CloudFlare Workers (2 days ago)
-- [ski043/job-marshal-finale-locale](https://github.com/ski043/job-marshal-finale-locale) -  (2 days ago)
-- [code/app-nous](https://github.com/code/app-nous) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more (2 days ago)
-- [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.   (2 days ago)
-- [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free &#43; OSS logo generator powered by Flux on Together AI (2 days ago)
-- [fishwasher/next-news](https://github.com/fishwasher/next-news) - A web news aggregation stack based on Next.js / React.js and NewsAPI (2 days ago)
-- [lucasferrazlima/news-pulse](https://github.com/lucasferrazlima/news-pulse) - This is a news aggregator application built with Next.js (2 days ago)
-- [riceyrolling/tight-scene-fe5d](https://github.com/riceyrolling/tight-scene-fe5d) -  (2 days ago)
+- [Abood2284/NeonDrizzle-Cloudflare-Tutorial](https://github.com/Abood2284/NeonDrizzle-Cloudflare-Tutorial) - This is Youtube Tutorial on how to setup Cloudflare Worker &#43; NextJs in a monorepo with Neon as DB and Drizzle as ORM and finally deploying everything on your cloudflare (2 days ago)
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 days ago)
+- [codebam/cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Telegram Bot library for CloudFlare Workers (3 days ago)
+- [ski043/job-marshal-finale-locale](https://github.com/ski043/job-marshal-finale-locale) -  (3 days ago)
+- [code/app-nous](https://github.com/code/app-nous) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more (3 days ago)
+- [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.   (3 days ago)
+- [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free &#43; OSS logo generator powered by Flux on Together AI (3 days ago)
+- [fishwasher/next-news](https://github.com/fishwasher/next-news) - A web news aggregation stack based on Next.js / React.js and NewsAPI (3 days ago)
+- [lucasferrazlima/news-pulse](https://github.com/lucasferrazlima/news-pulse) - This is a news aggregator application built with Next.js (3 days ago)
+- [riceyrolling/tight-scene-fe5d](https://github.com/riceyrolling/tight-scene-fe5d) -  (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
